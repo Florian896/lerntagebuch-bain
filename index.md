@@ -15,5 +15,3 @@ Inhaltsverzeichnis
 [04 ]()
 
 
-
-[Bibliotheks- und Archivinformatik](https://github.com/felixlohmeier/bibliotheks-und-archivinformatik)
