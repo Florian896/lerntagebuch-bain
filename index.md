@@ -9,7 +9,7 @@ Ich freue mich, dass Du da bist. Ich schreibe hier über meine Erfahrungen im Ku
 Inhaltsverzeichnis
 
 [00 Wo bin ich gestartet](https://github.com/florian896/lerntagebuch-bain/_posts/2023-02-17-einfuehrung.md)  
-[01 Technische Grundlagen 1](https://github.com/florian896/lerntagebuch-bain/_posts/2023-02-17-tag01.md)  
+[01 Technische Grundlagen 1](https://florian896.github.io/lerntagebuch-bain/2023/02/17/tag01.html)  
 [02 Technische Grundlagen 2]()  
 [03 ]()  
 [04 ]()  
