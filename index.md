@@ -6,7 +6,7 @@ title: Lerntagebuch BAIN
 
 Ich freue mich, dass Du da bist. Ich schreibe hier über meine Erfahrungen im Kurs **Bibliotheks- und Archivinformatik** im FS23.
 
-Inhaltsverzeichnis
+### Inhaltsverzeichnis
 
 [00 Wo bin ich gestartet](https://florian896.github.io/lerntagebuch-bain/2023/02/17/einfuehrung.html)  
 [01 Technische Grundlagen 1](https://florian896.github.io/lerntagebuch-bain/2023/02/17/tag01.html)  
