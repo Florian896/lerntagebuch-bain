@@ -4,10 +4,28 @@ date: 2023-02-17
 ---
 
 Liebes Tagebuch  
-Zum ersten Mal schreibe ich Dir um Dich zu begruessen und kennenzulernen. Hallo. Es gibt noch keine Lernerfolge oder Erlebnisse zu berichten. Im Moment geht es noch darum, wo ich vor dem Modul stehe. Es soll eine "Vorher-Aufnahme" sein. Ich freue mich auf das Modul. Zum einen weihe ich damit meinen neuen Klapprechner ein - er ist so schnell und leicht und endlich funktionieren wieder alle Tasten bei jedem Anschlag! - und zum andern interessieren mich die technischen Themen der Informatik. Sofern ich folgen kann. Meine Erfahrung beschränkt sich auf frühere Module, in denen ich einiges lernen konnte, aber es waren vorallem grundlagen und Theorie. Ich bezweifle, dass die Schlidkröte von Python mir eine Benutzeroberfläche zeichnen kann. Praktische Erfahrung habe ich nur als Anwender von WinMedio. WinMedio ist ein Programm, das prima für unsere kleine Öffentliche Bibliothek fuktioniert. Insbesondere die excellente Kundenunterstützung durch den Betreiber ist eine grosse Hilfe. Die Nutzeroberflächengestaltung erinnert allerdings etwas stark an dekaden alte Windowsversionen und die strikte Suchfunktion erleichtert unseren Alltag nicht gerade. Wenn Nutzer:innenkontos über Namen gesucht werden, ist die Suche nur erfolgreich, wenn der Suchterm genau mit dem Anfang des ersten Nachnamens übereinstimmt. In reguläreren Ausdrücken gesagt sucht das Programm Konten mit einem Dachzeichen (^) vorgesetzt. Keine Sorge liebes Tagebuch, mit regulären Ausdrücken besfasst sich der nächste Artikel. Dort erkläre ich das genauer.
+Zum ersten Mal schreibe ich Dir um Dich zu begruessen und kennenzulernen. 
+Hallo. 
+Es gibt noch keine Lernerfolge oder Erlebnisse zu berichten. 
+Im Moment geht es noch darum, wo ich vor dem Modul stehe. 
+Es soll eine "Vorher-Aufnahme" sein. 
+Ich freue mich auf das Modul. 
+Zum einen weihe ich damit meinen neuen Klapprechner ein - er ist so schnell und leicht und endlich funktionieren wieder alle Tasten bei jedem Anschlag! - und zum andern interessieren mich die technischen Themen der Informatik. 
+Sofern ich folgen kann. 
+Meine Erfahrung beschränkt sich auf frühere Module, in denen ich einiges lernen konnte, aber es waren vorallem grundlagen und Theorie. 
+Ich bezweifle, dass die Schlidkröte von Python mir eine Benutzeroberfläche zeichnen kann. 
+Praktische Erfahrung habe ich nur als Anwender von WinMedio. 
+WinMedio ist ein Programm, das prima für unsere kleine Öffentliche Bibliothek fuktioniert. 
+Insbesondere die excellente Kundenunterstützung durch den Betreiber ist eine grosse Hilfe. 
+Die Nutzeroberflächengestaltung erinnert allerdings etwas stark an dekaden alte Windowsversionen und die strikte Suchfunktion erleichtert unseren Alltag nicht gerade. 
+Wenn Nutzer:innenkontos über Namen gesucht werden, ist die Suche nur erfolgreich, wenn der Suchterm genau mit dem Anfang des ersten Nachnamens übereinstimmt, was bei Personen Spanischer oder Portugisischer Herkunft eine Herausforderung sein kann. 
+In reguläreren Ausdrücken gesagt sucht das Programm Konten mit einem Dachzeichen (^) dem Suchbegriff automatisch vorgesetzt. 
+Keine Sorge liebes Tagebuch, mit regulären Ausdrücken besfasst sich der nächste Artikel. 
+Dort erkläre ich das genauer. 
 
-Es wird sicherlich viele Möglichkeiten für mich geben, Dinge zu lernen. 
 
-<!-- Das Modul BAIN klingt ganz interessant. Ich hoffe etwas programieren zu können in diesem Modul, habe aber gehört, dass das eventuell nicht so stark vorkommen wird. Egal, ich bin gerne bereit mich auf neues einzulassen. Was mir Sorgen bereitet, ist, dass wir ein "Lerntagebuch" schreiben sollen. Ja, liebes Tagebuch, Du bereitest mir sorgen. Der Dozent will drei bis sechstausend Zeichen pro Eintrag. Dabei faellt mir doch schreiben immer recht schwer. Texte kommen mir nur langsam von den Fingern und von ihrer Qualität bin ich selten überzeugt. Hoffentlich kann ich Tagebucheinträge etwas entspannter angehen. Wir werden es ja sehen. Davon mag ich python am besten. Es hat eine so schön unkomplizierte Syntax. Bis jetzt habe ich jedoch noch nie ein groesseres Programm geschrieben. Soweit mal bis jetzt. Es sind zwar erst 1172 Zeichen, aber ich kann ja noch "nachbessern" falls mir noch etwas in den Sinn kommt. Im schlimmsten Fall gibt es noch ASCII Art. -->
 
-Mein Vorwissen beschränkt sich auf ein klein wenig Erfahrung mit der Powershell, virtuellen Linuxmachinen und eine Vorliebe für Open Source. Dazu kommt etwas Programmierwissen in Java, c++ und python. 
+<!-- Das Modul BAIN klingt ganz interessant. Ich hoffe etwas programieren zu können in diesem Modul, habe aber gehört, dass das eventuell nicht so stark vorkommen wird. Egal, ich bin gerne bereit mich auf neues einzulassen. 
+Was mir Sorgen bereitet, ist, dass wir ein "Lerntagebuch" schreiben sollen. Ja, liebes Tagebuch, Du bereitest mir sorgen. Der Dozent will drei bis sechstausend Zeichen pro Eintrag. Dabei faellt mir doch schreiben immer recht schwer. Texte kommen mir nur langsam von den Fingern und von ihrer Qualität bin ich selten überzeugt. Hoffentlich kann ich Tagebucheinträge etwas entspannter angehen. Wir werden es ja sehen. 
+
+Mein Vorwissen beschränkt sich auf ein klein wenig Erfahrung mit der Powershell, virtuellen Linuxmachinen und eine Vorliebe für Open Source. Dazu kommt etwas Programmierwissen in Java, c++ und python. -->
