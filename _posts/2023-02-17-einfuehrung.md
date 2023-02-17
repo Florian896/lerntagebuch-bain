@@ -19,11 +19,8 @@ Es geht im Moment noch darum, wo ich vor dem Modul stehe.
 Es soll eine "Vorher-Aufnahme" sein. 
 Ich stehe allerdings wie erwähnt sowie vor als auch nach dem Modul. 
 Leider konnte ich in meinem letzten Versuch kaum etwas lernen, darum ist es gut für mich, das ganze Modul nochmals zu besuchen. 
-Ich freue mich 
-
-
-
-Zum einen weihe ich damit meinen neuen Klapprechner ein - er ist so schnell und leicht und endlich funktionieren wieder alle Tasten bei jedem Anschlag! - und zum andern interessieren mich die technischen Themen der Informatik. 
+Ich freue mich darauf. 
+Zum einen weihe ich damit meinen neuen Klapprechner ein - er ist so schnell und leicht und endlich funktionieren wieder alle Tasten bei jedem Anschlag! - und zum andern interessieren mich die technischen Themen der Informatik allgemein. 
 Sofern ich folgen kann. 
 Meine Erfahrung beschränkt sich auf frühere Module, in denen ich einiges lernen konnte, aber es waren vorallem Grundlagen und Theorie. 
 Ich bezweifle, dass die Schlidkröte von Python mir eine Benutzeroberfläche zeichnen kann. 
@@ -42,6 +39,9 @@ Es handelt sich also um eine bewusste Entscheidung der Entwickler.
 Meine Beschwerden bezüglich dem Programm sind alles relativ nebensächliche Lebensqualitätsbelange, doch es scheint mir seltsam, dass keine grössere Modernisierung und Benutzerfreundlichkeitsteigerung geschieht, wird das Programm doch regelmässig aktualisiert.
 
 
+Liebe Grüsse  
+Florian 
+
 
 wie fühle ich mich
 ziel
@@ -49,11 +49,3 @@ neugierig
 tägliche Arbeit
 er als Prof
 Vorschläge
-freut dass wiedererkannt
-
-Liebe Grüsse
-Florian 
-
-<!-- Das Modul BAIN klingt ganz interessant. Ich hoffe etwas programieren zu können in diesem Modul, habe aber gehört, dass das eventuell nicht so stark vorkommen wird. Egal, ich bin gerne bereit mich auf neues einzulassen. 
-Was mir Sorgen bereitet, ist, dass wir ein "Lerntagebuch" schreiben sollen. Ja, liebes Tagebuch, Du bereitest mir sorgen. Der Dozent will drei bis sechstausend Zeichen pro Eintrag. Dabei faellt mir doch schreiben immer recht schwer. Texte kommen mir nur langsam von den Fingern und von ihrer Qualität bin ich selten überzeugt. Hoffentlich kann ich Tagebucheinträge etwas entspannter angehen. Wir werden es ja sehen. 
-Mein Vorwissen beschränkt sich auf ein klein wenig Erfahrung mit der Powershell, virtuellen Linuxmachinen und eine Vorliebe für Open Source. Dazu kommt etwas Programmierwissen in Java, c++ und python. -->
