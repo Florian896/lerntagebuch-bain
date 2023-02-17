@@ -38,14 +38,5 @@ Wird allerdings manuell ein Prozentzeichen (%) vor den Suchausdruck gesetzt, wer
 Es handelt sich also um eine bewusste Entscheidung der Entwickler.
 Meine Beschwerden bezüglich dem Programm sind alles relativ nebensächliche Lebensqualitätsbelange, doch es scheint mir seltsam, dass keine grössere Modernisierung und Benutzerfreundlichkeitsteigerung geschieht, wird das Programm doch regelmässig aktualisiert.
 
-
 Liebe Grüsse  
 Florian 
-
-
-wie fühle ich mich
-ziel
-neugierig
-tägliche Arbeit
-er als Prof
-Vorschläge
