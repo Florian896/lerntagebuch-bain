@@ -7,7 +7,7 @@ Liebes Tagebuch
 Wir versuchen es ein weiteres Mal. Als ich dieses Modul bereits einmal Besuchte, konnte ich es wegen meiner Gesundheit leider nicht erfolgreich abschliessen.
 Lass uns die Daumen drücken, dass es diesmal gelingt.
 Die ersten zwei Termine haben schon stattgefunden.
-Es waren zwei Präsenztermiene, am selben Tag, am Morgen und am Nachmittag. 
+Es waren zwei Präsenztermine, am selben Tag, am Morgen und am Nachmittag. 
 Die restlichen Termine werden alle online stattfinden. 
 Am Ende wird das Lerntagebuch als Lernkontrolle bewertet. 
 Dafür sollen wir tausende an Zeichen zu jeder Veranstaltung schreiben. 
@@ -22,14 +22,14 @@ Leider konnte ich in meinem letzten Versuch kaum etwas lernen, darum ist es gut 
 Ich freue mich darauf. 
 Zum einen weihe ich damit meinen neuen Klapprechner ein - er ist so schnell und leicht und endlich funktionieren wieder alle Tasten bei jedem Anschlag! - und zum andern interessieren mich die technischen Themen der Informatik allgemein. 
 Sofern ich folgen kann. 
-Meine Erfahrung beschränkt sich auf frühere Module, in denen ich einiges lernen konnte, aber es waren vorallem Grundlagen und Theorie. 
-Ich bezweifle, dass die Schlidkröte von Python mir eine Benutzeroberfläche zeichnen kann. 
+Meine Erfahrung beschränkt sich auf frühere Module, in denen ich einiges lernen konnte, aber es waren vor allem Grundlagen und Theorie. 
+Ich bezweifle, dass die Schildkröte von Python mir eine Benutzeroberfläche zeichnen kann. 
 Praktische Erfahrung habe ich nur als Anwender von WinMedio. 
-WinMedio ist ein Programm, das prima für unsere kleine Öffentliche Bibliothek fuktioniert. 
-Insbesondere die excellente Kundenunterstützung durch den Betreiber ist eine grosse Hilfe. 
-Die Nutzeroberflächengestaltung erinnert allerdings etwas stark an dekaden alte Windowsversionen und die strikte Suchfunktion erleichtert unseren Alltag nicht gerade. 
-Wenn Nutzer:innenkontos über Namen gesucht werden, ist die Suche nur erfolgreich, wenn der Suchterm genau mit dem Anfang des ersten Nachnamens übereinstimmt, was bei Personen Spanischer oder Portugisischer Herkunft eine Herausforderung sein kann. 
-In reguläreren Ausdrücken gesagt sucht das Programm Konten mit einem Dachzeichen (^) dem Suchbegriff automatisch vorgesetzt. 
+WinMedio ist ein Programm, das prima für unsere kleine Öffentliche Bibliothek funktioniert. 
+Insbesondere die exzellente Kundenunterstützung durch den Betreiber ist eine grosse Hilfe. 
+Die Nutzeroberflächengestaltung erinnert allerdings etwas stark an Dekaden alte Windowsversionen und die strikte Suchfunktion erleichtert unseren Alltag nicht gerade. 
+Wenn Nutzer:innenkontos über Namen gesucht werden, ist die Suche nur erfolgreich, wenn der Suchterm genau mit dem Anfang des ersten Nachnamens übereinstimmt, was bei Personen Spanischer oder Portugiesischer Herkunft eine Herausforderung sein kann. 
+In regulären Ausdrücken gesagt sucht das Programm Konten mit einem Dachzeichen (^) dem Suchbegriff automatisch vorgesetzt. 
 Keine Sorge liebes Tagebuch, mit regulären Ausdrücken befasst sich der nächste Artikel. 
 Dort erkläre ich das genauer. 
 Bleiben wir jetzt mal noch bei WinMedio.
