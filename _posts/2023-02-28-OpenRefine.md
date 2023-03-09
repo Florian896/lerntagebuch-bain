@@ -43,6 +43,12 @@ Es wird in der Regel lokal auf einem Computer installiert und über den Browser 
 Wir finden eine grafische Oberfläche, die einem klassischen Tabellenverarbeitungsprogramm ähnelt.
 Nach dem Import unserer Daten können wir über die zahlreichen Menuoptionen unseren Datensatz bearbeiten.
 
+
+Für tatsächliches Arbeiten mit dem Programm empfehle ich Dir insbesondere die Lektionen auf [Libsrary Carpentry](https://librarycarpentry.org/lessons/) durchzuarbeiten.
+Sie sind gut verständlich und enthalten viele hilfreiche Übungsaufgaben.
+Falls Du viele Texte vom Internet sammeln und analysieren willst, wirst du beim [Programming Historian](https://programminghistorian.org/en/lessons/) fündig, aber achtung, es sind viele lange Texte.
+Ein Handbuch findest Du [hier](https://it-in-bibliotheken.de).
+
 --------------------
 OpRe kann gut daten bereinigen, verwalten und so
 Fehler bereinigen (text im Zahlenfeld oder so) gibt es selbst bei national Bibi. 
@@ -112,13 +118,3 @@ auf service clicken (gibt noch andere)
 rechts auf ISSN, ISSN p236 auswählen
 kann daten ergänzen, via reconsiliation! (s. gemeinsames dok)
 Remember: delete Codespace
-
----------------------
-
-Libsrary Carpentry
-
-Literaturempfehlungen
-Library Carpentry Lessons: https://librarycarpentry.org/lessons/ - Peer reviewed Lehrmaterialien (IT 4 Librarians)
-Programming Historian Lessons: https://programminghistorian.org/en/lessons/ - lange Texte, peer reviewed, HOWTO mit OpenRefine webscraping
-Handbuch IT in Bibliotheken: https://it-in-bibliotheken.de - 
----------------------
