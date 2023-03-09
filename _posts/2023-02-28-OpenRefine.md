@@ -38,13 +38,12 @@ Da die Anzahl an beitragenden Entwickelnden sehr gross ist, können wir davon au
 Je weniger Entwickelnde beteiligt sind, desto grösser ist die Chanze, dass das Projekt aufgegeben wird.
 Dazu kommen 200,000 USD pro Jahr, die von verschiedenen Seiten gespendet werden.  
 
-
+Nun da wir eruiert haben, dass OpenRefine eine gute Wahl ist, widmen wir uns dem Umgang mit dem Programm selbst.
+Es wird in der Regel lokal auf einem Computer installiert und über den Browser bedient.
+Wir finden eine grafische Oberfläche, die einem klassischen Tabellenverarbeitungsprogramm ähnelt.
+Nach dem Import unserer Daten können wir über die zahlreichen Menuoptionen unseren Datensatz bearbeiten.
 
 --------------------
-grafische Oberfläche, die einer klassischen Tabellenverarbeitungssoftware ähnelt
-dient der Analyse, Bereinigung, Konvertierung und Anreicherung von Daten
-wird in der Regel lokal auf einem Computer installiert und über den Browser bedient
-
 OpRe kann gut daten bereinigen, verwalten und so
 Fehler bereinigen (text im Zahlenfeld oder so) gibt es selbst bei national Bibi. 
 Daten visualisierung
