@@ -28,6 +28,7 @@ Wir achten dabei gezielt auf vier Dinge.
 OpenRefine hat diese Daten für uns bereits [Zusammengetragen](https://openrefine.org/blog/2022/06/28/2022-survey-results.html).
 3. Wird das Programm tatsächlich für die Dinge genutzt für die es entwickelt wurde?
 4. Wird das Programm noch entwickelt? Mit welcher regelmässigkeit und häufigkeit? Wie gross ist die Gemeinschaft, die (noch) entwickelt?  
+
 Diese Dinge lassen sich wunderbar auf OpenRifines GitHub Profiel überprüfen.
 GitHub zeigt an welche Profiele wann wieviel beigetragen haben. 
 Eine Präsentation zur OpenSource Evaluation in grösserem Detail findest Du [hier](https://felixlohmeier.de/slides/2017-09-28_vufind-anwendertreffen-keynote.html#/).  
