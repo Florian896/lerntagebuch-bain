@@ -42,7 +42,8 @@ Nun da wir eruiert haben, dass OpenRefine eine gute Wahl ist, widmen wir uns dem
 Es wird in der Regel lokal auf einem Computer installiert und über den Browser bedient.
 In der Lektion konnten wir sehr einfach inkonsitenzen und Fehler in einem Datensatz finden und bereinigen.
 Formatierungen werden ignoriert und sind darum auch kein Problem.
-
+Die Facettenansicht ist schlichtweg genial.
+Pass einfach auf, dass Du nicht übersiehst, dass gleichzeitg aktive Facetten mit einem AND verknüpft sind.
 
 Für tatsächliches Arbeiten mit dem Programm empfehle ich Dir eindringlichst die Lektionen auf [Libsrary Carpentry](https://librarycarpentry.org/lc-open-refine/) durchzuarbeiten.
 Sie sind gut verständlich und enthalten viele hilfreiche Übungsaufgaben.
@@ -53,45 +54,3 @@ Viel Spass!
 Liebe Grüsse
 
 Florian
-
-
-mehrere Facetten können gleichzeitig gezeigt werden
-ist AND verknüpfung (OR wäre komplizierter)
-Author: müssens aufsplitten.
-mehrere werte pro zellen, müssen wir splitten
-	Authors -->Edit cells --> Split multi-varied cells
-	| als seperator --> ok
-Zu viele links 
-	set choice count limit
-jetzt sehen wir den häufigsten
-click clustor
-Method und so rumspielen
-Namen Homogenisieren
-(natürlich Entscheidungen nötig, wie machen wirs /ist es richtig?)
-	richtiges anklicken
-	Merge select3ed &re-cluster
-
-DOI nicht gut als ID
-	duplikate
-	blank
-gut immer im ROWS modus (Show as:)
-oben steht was wir ansehen in fett
-	immer ansehen! --> orientieren
-lässt sich range als facette eingeben?
-ja --> Date--> edit cells --> Common transoforms --> to date 
-Date --> facet --> timeline facet
-drag range
-
-Reconciliation
-Titel ist nur als Teil der citation da
-general refine expression language
-citation --> Edit column --> Add column based on this column
-New colomn name: Journal
-value.split("[trennzeichen, hier ", " ]")
-das gibt Array, (ZÄHLT VON NULL)
-darum [0] fürs erste Feld absplitten
-Journal--> Reconsile --> Start reconsiling
-auf service clicken (gibt noch andere)
-rechts auf ISSN, ISSN p236 auswählen
-kann daten ergänzen, via reconsiliation! (s. gemeinsames dok)
-Remember: delete Codespace
