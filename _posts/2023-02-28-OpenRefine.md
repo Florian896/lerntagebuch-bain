@@ -40,43 +40,20 @@ Dazu kommen 200,000 USD pro Jahr, die von verschiedenen Seiten gespendet werden.
 
 Nun da wir eruiert haben, dass OpenRefine eine gute Wahl ist, widmen wir uns dem Umgang mit dem Programm selbst.
 Es wird in der Regel lokal auf einem Computer installiert und über den Browser bedient.
-Wir finden eine grafische Oberfläche, die einem klassischen Tabellenverarbeitungsprogramm ähnelt.
-Nach dem Import unserer Daten können wir über die zahlreichen Menuoptionen unseren Datensatz bearbeiten.
+In der Lektion konnten wir sehr einfach inkonsitenzen und Fehler in einem Datensatz finden und bereinigen.
+Formatierungen werden ignoriert und sind darum auch kein Problem.
 
 
-Für tatsächliches Arbeiten mit dem Programm empfehle ich Dir insbesondere die Lektionen auf [Libsrary Carpentry](https://librarycarpentry.org/lessons/) durchzuarbeiten.
+Für tatsächliches Arbeiten mit dem Programm empfehle ich Dir eindringlichst die Lektionen auf [Libsrary Carpentry](https://librarycarpentry.org/lc-open-refine/) durchzuarbeiten.
 Sie sind gut verständlich und enthalten viele hilfreiche Übungsaufgaben.
 Falls Du viele Texte vom Internet sammeln und analysieren willst, wirst du beim [Programming Historian](https://programminghistorian.org/en/lessons/) fündig, aber achtung, es sind viele lange Texte.
 Ein Handbuch findest Du [hier](https://it-in-bibliotheken.de).
+Viel Spass!
 
---------------------
-OpRe kann gut daten bereinigen, verwalten und so
-Fehler bereinigen (text im Zahlenfeld oder so) gibt es selbst bei national Bibi. 
-Daten visualisierung
+Liebe Grüsse
 
-CodeSpaces öffnen
-Ports
-forward Port 3333 (wie im Terminal erwähnt)
-warten
+Florian
 
-Alle Daten die wir importieren werden zu einem "Projekt" (import --> projekt --> export)
-Clipboard: zwischenablage (copy paste)
-LibCarpentry lesson: https://librarycarpentry.org/lc-open-refine/
-
-WebURL mit link (provided) einspeisen
-OpRe ignoriert alle grafischen formatierungen (fett, farbig, hintergrundfarbe, etc)
-unten praktische einstellungen
-.csv tabellendaten, separiert mit komma, wenn komma im feld, mit "" umschlossen
-man kann andere Symbole dazu definieren
-CREATE PROJECT
-gemischte Ansicht, websuche/tabellenansicht (laaaange tabellen in HTML killen den pc)
-pfeil bei Spaltentitel: Language --> facet --> textfacet
-links gucken
-oho, English vs EN (homogenisierung nötig)
-verbreiteste Form Sprache als 3 Zeichen
-wir gehen mal zur Mehrhiet: Engl --> EN
-Hover over English --> Edit --> EN tippen --> Apply
-oben UNDO / REDO (aber nur der Reihenfolge nach möglich)
 
 mehrere Facetten können gleichzeitig gezeigt werden
 ist AND verknüpfung (OR wäre komplizierter)
