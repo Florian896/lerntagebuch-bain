@@ -22,7 +22,7 @@ Das klingt sehr gut, aber wie weit können wir der Werbung trauen?
 Lass uns erst das Programm evaluieren!
 Dazu werfen wir erst einen Blick auf die Beurteilungen und auf seinen GitHub-Auftritt.
 Wir achten dabei gezielt auf vier Dinge.
-1. Wer sind die Nutzenden und in welcher Sprache nutzen sie das Programm?
+1. Wer sind die Nutzenden und in welcher Sprache nutzen sie das Programm?  
 Test
 does this work
 3. Wozu nutzen sie das Programm?
