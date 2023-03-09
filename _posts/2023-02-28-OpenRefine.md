@@ -20,34 +20,33 @@ Die Internetauftritt von OpenRefine beschreibt es so:
 Es kann also auch Daten in andere Formate übersetzen und sie sogar mit Hilfe des Internets erweitern.
 Das klingt sehr gut, aber wie weit können wir der Werbung trauen?  
 Lass uns erst das Programm evaluieren!
-Dazu werfen wir erst einen Blick auf die Beurteilungen und auf seinen GitHub-Auftritt.
+Wir können gleich lernen, wie wir eine solche Evaluation angehen können.
+Dazu werfen wir erst einen Blick auf die Beurteilungen und auf seinen Auftritt.
 Wir achten dabei gezielt auf vier Dinge.
-1. Wer sind die Nutzenden und in welcher Sprache nutzen sie das Programm?  
-Test
-does this work
-3. Wozu nutzen sie das Programm?
-4. Wird das Programm tatsächlich für die Dinge genutzt für die es entwickelt wurde?
-5. Wird das Programm noch entwickelt? Mit welcher regelmässigkeit und häufigkeit? Wie gross ist die Gemeinschaft, die (noch) entwickelt?
+1. Wer sind die Nutzenden und in welcher Sprache nutzen sie das Programm?
+2. Wozu nutzen sie das Programm?  
+OpenRefine hat diese Daten für uns bereits [Zusammengetragen](https://openrefine.org/blog/2022/06/28/2022-survey-results.html).
+3. Wird das Programm tatsächlich für die Dinge genutzt für die es entwickelt wurde?
+4. Wird das Programm noch entwickelt? Mit welcher regelmässigkeit und häufigkeit? Wie gross ist die Gemeinschaft, die (noch) entwickelt?  
+Diese Dinge lassen sich wunderbar auf OpenRifines GitHub Profiel überprüfen.
+GitHub zeigt an welche Profiele wann wieviel beigetragen haben. 
+Eine Präsentation zur OpenSource Evaluation in grösserem Detail findest Du [hier](https://felixlohmeier.de/slides/2017-09-28_vufind-anwendertreffen-keynote.html#/).  
+Wie Du siehst, stellt sich heraus, dass OpenRefine schon seit längerer Zeit auf GitHub beliebt ist.
+Es gieng durch eine Durststrecke, wird inzwischen aber intensiev entwickelt.
+Da die Anzahl an beitragenden Entwickelnden sehr gross ist, können wir davon ausgehen, dass das Projekt auf absehbare Zeit weiterentwickelt werden wird.
+Je weniger Entwickelnde beteiligt sind, desto grösser ist die Chanze, dass das Projekt aufgegeben wird.
+Dazu kommen 200,000 USD pro Jahr, die von verschiedenen Seiten gespendet werden.  
+
+
 
 --------------------
 grafische Oberfläche, die einer klassischen Tabellenverarbeitungssoftware ähnelt
 dient der Analyse, Bereinigung, Konvertierung und Anreicherung von Daten
 wird in der Regel lokal auf einem Computer installiert und über den Browser bedient
 
-(min 50: OpenSource software evaluieren via https://openrefine.org/blog/2022/06/28/2022-survey-results.html)
-wer nutzt es? welche Sprache?
-Was machen die damit?
-Claim stimmt mit Usecase überein?
-
 OpRe kann gut daten bereinigen, verwalten und so
 Fehler bereinigen (text im Zahlenfeld oder so) gibt es selbst bei national Bibi. 
 Daten visualisierung
-
-Beliebt bei GitHub, hatte durststrecke, wird jetzt weider aktiv entwickelt
-nimmt ca 200k$ pro jahr, von Open Source untertützern (gibt viele)
-Da viele Supporters, relativ sicher, dass es weitergeht. 
-Wenige leute --> nicht so sicher
-wie Open Source evaluieren: https://felixlohmeier.de/slides/2017-09-28_vufind-anwendertreffen-keynote.html#/
 
 CodeSpaces öffnen
 Ports
