@@ -16,6 +16,7 @@ Hat man schmutzige Daten, kann man sie mit Programmen wie OpenRefine (be-)reinig
 OpenRefine ist ein OpenSource Programm das wir heute kennenlernten.
 Die Internetauftritt von OpenRefine beschreibt es so:  
 > OpenRefine is a powerful free open source tool for working with messy data: cleaning it; transforming it from one format to the other and extending it with web services and external data.  
+
 Es kann also auch Daten in andere Formate übersetzen und sie sogar mit Hilfe des Internets erweitern.
 Das klingt sehr gut, aber wie weit können wir der Werbung trauen?  
 Lass uns erst das Programm evaluieren!
