@@ -49,27 +49,3 @@ Diese Funktionalität befindet sich zur Zeit in Entwicklung und ist dank Kohas g
 Liebe Grüsse
 
 Florian
-
-++++++notizen+++++++
-
-MARC21
-MRC: Binärformat für MARC21
-DOC: für wörd
-MARCXML gibt es
-Felder und so das trockene zeugs erklärt
-Kenn ich schon. Das ganze mit 240 $a blablabla
-Oh wunder, es gibt sofware, die das ganze lesbarer macht via Mapping und so 
-es ist ein GRAF, blubb
-gibt instanzen vs manifestationen (Göhtes Faust vs ein Buch)
-Ich HOFFE ChatGPT kann MARC21 schon bälder als die prohezeiten 20 Jahre ablösen
-schnarch
-Als ich erwachte:
-vgl DublinCore vs MARC21
-Dublin hat sprechende Felder (sinnvolle Namen)
-generell leider noch nicht (HOW??) veralters zeug
- MARC mehr info
-Dublin ohne Handbuch verständlich, MARC nicht
-
-openhub.net zums evaluieren
-e-res modul kommt. in Entwicklung
-Demoversion
