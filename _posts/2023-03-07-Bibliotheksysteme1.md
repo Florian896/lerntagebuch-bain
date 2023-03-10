@@ -17,7 +17,12 @@ MARC21 gibt es auch als XML, was für Menschen sogar noch schwieriger zu lesen i
 Im Unterbau werden die Daten als [Graf](https://de.wikipedia.org/wiki/Graphdatenbank) vernetzt.
 Das erlaubt eine Vernetzung und Verlinkung der Daten. Wir haben im Modul SESY viel darüber gelernt.
 
-Zum Glück existieren Programme, mit sinnvolen Nutzeroberflächen, welche sogar menschenlesbar bennannt sind, zur Verfügung.
+Ich habe ChatGPT um hierbei um Hilfe gefragt. Leider ist es noch nicht soweit, dass es mit MARC21 Daten umgehen kann. Wir müssen uns wohl vorerst noch selbst darum kümmern.
+Ich bezweifle jedoch, dass wir uns - wie der Dozent meinte - noch ein bis zwei Dekaden mit MARC21 rumschlagen werden.
+ChatGPT oder ein Nachfolger wird das meiner Meinung nach weit vorher für uns übernehmen.
+Die grosse Frag ist, wieviele von uns dann noch eine Arbeitstelle haben werden.
+
+Für die Zwischenzeit existieren zum Glück Programme, mit sinnvolen Nutzeroberflächen, welche sogar menschenlesbar bennannt sind, zur Verfügung.
 Diese Programme füllen die ensprechenden Felder in MARC21 ein.
 Wie zum Beispiel Koha.
 Lauss uns das, wie wir [gelernt](https://florian896.github.io/lerntagebuch-bain/2023/02/28/OpenRefine.html) haben, evaluieren.
@@ -64,16 +69,6 @@ Dublin hat sprechende Felder (sinnvolle Namen)
 generell leider noch nicht (HOW??) veralters zeug
  MARC mehr info
 Dublin ohne Handbuch verständlich, MARC nicht
-
-+++aus gemeinsamem dok+++
-Regelwerk vs. Datenformat
-Ein Regelwerk bildet die theoretische Grundlage für die Katalogisierung. Es definiert, wie eine Ressource zu beschreiben ist. Dazu gehören in der Regel inhaltliche Kategorien und normierte Vokabulare.
-Functional Requirements for Bibliographic Records (FRBR) und Resource Description and Access (RDA) sind Regelwerke
-Ein Datenformat erlaubt die praktische Repräsentation eines Katalogisats. Es definiert, wie Informationen zu kodieren sind. Dazu gehören Datenstrukturen und -typen.
-MARC21 und BIBFRAME sind Datenformate
-Note:
-Regelwerke und Datenformate ergänzen einander und sind nicht immer trennscharf zu unterscheiden. Beispielsweise umfasst BIBFRAME auch Aspekte eines Regelwerks (z. B. Abstraktionsebenen). Man spricht deshalb auch von einem Datenmodell.
-+++aus gemeinsamem dok+++
 
 openhub.net zums evaluieren
 e-res modul kommt. in Entwicklung
