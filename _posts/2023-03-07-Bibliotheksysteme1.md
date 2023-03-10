@@ -14,12 +14,13 @@ Entsprechend sind die führenden Nullen auch bedeutungsbehaftet, was in verschie
 (Vermutlich auch zu Problemen die sowohl unvorhergesehen als auch vorhersebar sind.)
 Die Zahl muss wohl als Datentyp String behandelt werden, was Sinnvoll ist, da diese Zahlen nur als Namen der Felder fungieren und unter keinen Umständen mit ihnen gerechnet werden sollte. 
 MARC21 gibt es auch als XML, was für Menschen sogar noch schwieriger zu lesen ist. 
-
 Im Unterbau werden die Daten als [Graf](https://de.wikipedia.org/wiki/Graphdatenbank) vernetzt.
+
 
 Zum Glück existieren Programme, die sinnvole Nutzeroberflächen, die oft sogar menschenlesbar bennannt sind, zur Verfügung.
 Diese Programme füllen die ensprechenden Felder ein.
 Wie zum Beispiel Koha.
+Lauss uns das, wie wir [gelernt](https://florian896.github.io/lerntagebuch-bain/2023/02/28/OpenRefine.html) haben, evaluieren.
 
 
 ++++++notizen+++++++
