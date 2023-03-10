@@ -25,8 +25,9 @@ Koha ist ein OpenSource Programm.
 Zur Unterstützung ziehen wir [Open Hub](https://openhub.net/p/koha) heran.
 Sofort sehen wir oben rechts, dass Koha eine "sehr hohe Aktivitätsrate" zeigt.
 Der höchste Wert der Skala.
-Es wurden 48 Tausend Beiträge von 573 Mitwirkenden verzeichnet.
-Das sind sehr viele beiträge von sehr vielen Menschen, wie auch Open Hub in klaren Worten bestätigt:
+Es sind nur 21 Bewertungen vorhanden, leder alle ohne Text, aber sie geben alle Koha die volle Punktzahl.
+Von den 573 Mitwirkenden wurden 48 Tausend Beiträge verzeichnet.
+Das sind sehr viele Beiträge von sehr vielen Menschen, wie auch Open Hub in klaren Worten bestätigt:
 
 > Koha has a well established, mature codebase maintained by a very large development team with stable Y-O-Y commits
 
