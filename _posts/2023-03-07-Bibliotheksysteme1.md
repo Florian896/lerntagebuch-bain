@@ -38,6 +38,7 @@ generell leider noch nicht (HOW??) veralters zeug
 Aufgabe:
  MARC mehr info. 
 Dublin ohne Handbuch verständlich, MARC nicht
+
 +++aus gemeinsamem dok+++
 Regelwerk vs. Datenformat
 Ein Regelwerk bildet die theoretische Grundlage für die Katalogisierung. Es definiert, wie eine Ressource zu beschreiben ist. Dazu gehören in der Regel inhaltliche Kategorien und normierte Vokabulare.
@@ -46,9 +47,10 @@ Ein Datenformat erlaubt die praktische Repräsentation eines Katalogisats. Es de
 MARC21 und BIBFRAME sind Datenformate
 Note:
 Regelwerke und Datenformate ergänzen einander und sind nicht immer trennscharf zu unterscheiden. Beispielsweise umfasst BIBFRAME auch Aspekte eines Regelwerks (z. B. Abstraktionsebenen). Man spricht deshalb auch von einem Datenmodell.
-+++
++++aus gemeinsamem dok+++
 
 GRUNDVERSTÄNDNISS MUSS ERSICHTLICH SEIN IM TAGEBUCH YEY
 
 openhub.net zums evaluieren
 e-res modul kommt. in Entwicklung
+Demoversion
