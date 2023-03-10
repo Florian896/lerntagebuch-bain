@@ -35,7 +35,11 @@ Die Graphen weiter unten bestätigen erneut, dass das Projekt über lange Zeit s
 Koha ist offensichtlich ein sehr gesundes Projekt, mit vielen überzeigten Beitragenden.
 Es wurde seit dem Jahr 2000 konstant gepflegt und weiterentwickelt.
 
-
+Wenn Du Koha startest, siehst du gleich, dass es grafisch nicht sehr modern, aber funktionell einwandrei und gut verständlich gestaltet ist.
+Das Programm an sich ist sehr mächtig und auf alle erdenkliche Aufgaben von Bibliotheken ausgelegt.
+Zum Glück lässt es sich auf einfache Weise bis ins kleinste Deteil für den Eigenbedarf anpassen. 
+Das einzige was Koha im Moment noch fehlt, ist die Möglichkeit Onlinemedien zu verwalten.
+Diese Funktionalität befindet sich zur Zeit in Entwicklung und ist dank Kohas grossen Entwicklergemeinschaft bald zu erwarten.
 
 Liebe Grüsse
 
