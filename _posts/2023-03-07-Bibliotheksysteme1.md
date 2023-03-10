@@ -9,19 +9,42 @@ Heute haben wir uns mit dem Bibliotheksystem Koha befasst.
 Wie Du vielleicht schon weisst, wird in der Bibliotheksinformatik vieles im dedizierten MARC21-Format katalogisiert.
 MARC21 ist meiner Meinung nach mit Abstand die beste aller Nutzerunfeindlichen Optionen.
 Es ist mit Feldern aufgebaut, die jeweils klar definierte Daten erhalten.
-Die Felder sind Dreistellig von 000 bis 999 nummeriert und das 0 wird dabei wie jede andere Zahl behandelt. 
-Entsprechend sind die führenden Nullen auch bedeutungsbehaftet, was in verschiedenen Programmumgebungen zu vorhersehbaren sowie unvorhergesehenen Problemen führt.
+Die Felder sind Dreistellig beginnend bei 000 nummeriert und das 0 wird dabei wie jede andere Zahl behandelt. 
+Entsprechend sind die führenden Nullen auch bedeutungstragend, was in verschiedenen Programmumgebungen zu vorhersehbaren sowie unvorhergesehenen Problemen führt.
 (Vermutlich auch zu Problemen die sowohl unvorhergesehen als auch vorhersebar sind.)
 Die Zahl muss wohl als Datentyp String behandelt werden, was Sinnvoll ist, da diese Zahlen nur als Namen der Felder fungieren und unter keinen Umständen mit ihnen gerechnet werden sollte. 
 MARC21 gibt es auch als XML, was für Menschen sogar noch schwieriger zu lesen ist. 
 Im Unterbau werden die Daten als [Graf](https://de.wikipedia.org/wiki/Graphdatenbank) vernetzt.
+Das erlaubt eine Vernetzung und Verlinkung der Daten. Wir haben im Modul SESY viel darüber gelernt.
 
-
-Zum Glück existieren Programme, die sinnvole Nutzeroberflächen, die oft sogar menschenlesbar bennannt sind, zur Verfügung.
-Diese Programme füllen die ensprechenden Felder ein.
+Zum Glück existieren Programme, mit sinnvolen Nutzeroberflächen, welche sogar menschenlesbar bennannt sind, zur Verfügung.
+Diese Programme füllen die ensprechenden Felder in MARC21 ein.
 Wie zum Beispiel Koha.
 Lauss uns das, wie wir [gelernt](https://florian896.github.io/lerntagebuch-bain/2023/02/28/OpenRefine.html) haben, evaluieren.
+Koha ist ein OpenSource Programm.
+Zur Unterstützung ziehen wir [Open Hub](https://openhub.net/p/koha) heran.
 
+
+
+has had 48,606 commits made by 573 contributors
+representing 588,071 lines of code
+
+is mostly written in Perl
+with an average number of source code comments
+
+has a well established, mature codebase
+maintained by a very large development team
+with stable Y-O-Y commits
+
+took an estimated 160 years of effort (COCOMO model)
+starting with its first commit in December, 2000
+ending with its most recent commit 29 days ago
+
+
+
+Liebe Grüsse
+
+Florian
 
 ++++++notizen+++++++
 
@@ -40,8 +63,7 @@ Als ich erwachte:
 vgl DublinCore vs MARC21
 Dublin hat sprechende Felder (sinnvolle Namen)
 generell leider noch nicht (HOW??) veralters zeug
-Aufgabe:
- MARC mehr info. 
+ MARC mehr info
 Dublin ohne Handbuch verständlich, MARC nicht
 
 +++aus gemeinsamem dok+++
@@ -53,8 +75,6 @@ MARC21 und BIBFRAME sind Datenformate
 Note:
 Regelwerke und Datenformate ergänzen einander und sind nicht immer trennscharf zu unterscheiden. Beispielsweise umfasst BIBFRAME auch Aspekte eines Regelwerks (z. B. Abstraktionsebenen). Man spricht deshalb auch von einem Datenmodell.
 +++aus gemeinsamem dok+++
-
-GRUNDVERSTÄNDNISS MUSS ERSICHTLICH SEIN IM TAGEBUCH YEY
 
 openhub.net zums evaluieren
 e-res modul kommt. in Entwicklung
