@@ -13,10 +13,14 @@ Die Felder sind Dreistellig von 000 bis 999 nummeriert und das 0 wird dabei wie 
 Entsprechend sind die führenden Nullen auch bedeutungsbehaftet, was in verschiedenen Programmumgebungen zu vorhersehbaren sowie unvorhergesehenen Problemen führt.
 (Vermutlich auch zu Problemen die sowohl unvorhergesehen als auch vorhersebar sind.)
 Die Zahl muss wohl als Datentyp String behandelt werden, was Sinnvoll ist, da diese Zahlen nur als Namen der Felder fungieren und unter keinen Umständen mit ihnen gerechnet werden sollte. 
+MARC21 gibt es auch als XML, was für Menschen sogar noch schwieriger zu lesen ist. 
+
+Im Unterbau werden die Daten als [Graf](https://de.wikipedia.org/wiki/Graphdatenbank) vernetzt.
 
 Zum Glück existieren Programme, die sinnvole Nutzeroberflächen, die oft sogar menschenlesbar bennannt sind, zur Verfügung.
 Diese Programme füllen die ensprechenden Felder ein.
 Wie zum Beispiel Koha.
+
 
 ++++++notizen+++++++
 
