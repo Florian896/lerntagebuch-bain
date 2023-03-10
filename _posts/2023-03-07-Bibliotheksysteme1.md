@@ -23,22 +23,16 @@ Wie zum Beispiel Koha.
 Lauss uns das, wie wir [gelernt](https://florian896.github.io/lerntagebuch-bain/2023/02/28/OpenRefine.html) haben, evaluieren.
 Koha ist ein OpenSource Programm.
 Zur Unterstützung ziehen wir [Open Hub](https://openhub.net/p/koha) heran.
+Sofort sehen wir oben rechts, dass Koha eine "sehr hohe Aktivitätsrate" zeigt.
+Der höchste Wert der Skala.
+Es wurden 48 Tausend Beiträge von 573 Mitwirkenden verzeichnet.
+Das sind sehr viele beiträge von sehr vielen Menschen, wie auch Open Hub in klaren Worten bestätigt:
 
+> Koha has a well established, mature codebase maintained by a very large development team with stable Y-O-Y commits
 
-
-has had 48,606 commits made by 573 contributors
-representing 588,071 lines of code
-
-is mostly written in Perl
-with an average number of source code comments
-
-has a well established, mature codebase
-maintained by a very large development team
-with stable Y-O-Y commits
-
-took an estimated 160 years of effort (COCOMO model)
-starting with its first commit in December, 2000
-ending with its most recent commit 29 days ago
+Die Graphen weiter unten bestätigen erneut, dass das Projekt über lange Zeit schon stabiel läuft.
+Koha ist offensichtlich ein sehr gesundes Projekt, mit vielen überzeigten Beitragenden.
+Es wurde seit dem Jahr 2000 konstant gepflegt und weiterentwickelt.
 
 
 
