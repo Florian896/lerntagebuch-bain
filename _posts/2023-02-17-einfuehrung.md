@@ -14,6 +14,7 @@ Dafür sollen wir tausende an Zeichen zu jeder Veranstaltung schreiben.
 Vor Beginn der ersten Lektion hat mich der Dozent, Herr Lohnmeier, von meinem letzten Versuch her wiedererkannt und begrüsst. 
 Das hat mich gefreut.
 Offensichtlich schaut er uns an. 
+
 In diesem Eintrag gibt es noch keine Lernerfolge zu berichten. 
 Es geht im Moment noch darum, wo ich vor dem Modul stehe. 
 Es soll eine "Vorher-Aufnahme" sein. 
@@ -24,6 +25,7 @@ Zum einen weihe ich damit meinen neuen Klapprechner ein - er ist so schnell und 
 Sofern ich folgen kann. 
 Meine Erfahrung beschränkt sich auf frühere Module, in denen ich einiges lernen konnte, aber es waren vor allem Grundlagen und Theorie. 
 Ich bezweifle, dass die Schildkröte von Python mir eine Benutzeroberfläche zeichnen kann. 
+
 Praktische Erfahrung habe ich nur als Anwender von WinMedio. 
 WinMedio ist ein Programm, das prima für unsere kleine Öffentliche Bibliothek funktioniert. 
 Insbesondere die exzellente Kundenunterstützung durch den Betreiber ist eine grosse Hilfe. 
@@ -32,6 +34,7 @@ Wenn Nutzer:innenkontos über Namen gesucht werden, ist die Suche nur erfolgreic
 In regulären Ausdrücken gesagt sucht das Programm Konten mit einem Dachzeichen (^) dem Suchbegriff automatisch vorgesetzt. 
 Keine Sorge liebes Tagebuch, mit regulären Ausdrücken befasst sich der nächste Artikel. 
 Dort erkläre ich das genauer. 
+
 Bleiben wir jetzt mal noch bei WinMedio.
 Wenn über den Expertensuchschlitz gesucht wird, können spezifische Felder, auch Namen, gezielt durchsucht werden. 
 Wird allerdings manuell ein Prozentzeichen (%) vor den Suchausdruck gesetzt, werden Konten mit dem Suchausdruck irgendwo im spezifizierten Feld gefunden.
