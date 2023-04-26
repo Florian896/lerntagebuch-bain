@@ -17,7 +17,7 @@ MARC21 gibt es auch als XML, was für Menschen sogar noch schwieriger zu lesen i
 Im Unterbau werden die Daten als [Graf](https://de.wikipedia.org/wiki/Graphdatenbank) vernetzt.
 Das erlaubt eine Vernetzung und Verlinkung der Daten. Wir haben im Modul SESY viel darüber gelernt.
 
-Ich habe ChatGPT um hierbei um Hilfe gefragt. Leider ist es noch nicht soweit, dass es mit MARC21 Daten umgehen kann. Wir müssen uns wohl vorerst noch selbst darum kümmern.
+Ich habe ChatGPT hierbei um Hilfe gefragt. Leider ist es noch nicht soweit, dass es mit MARC21 Daten umgehen kann. Wir müssen uns wohl vorerst noch selbst darum kümmern.
 Ich bezweifle jedoch, dass wir uns - wie der Dozent meinte - noch ein bis zwei Dekaden mit MARC21 rumschlagen werden.
 ChatGPT oder ein Nachfolger wird das meiner Meinung nach weit vorher für uns übernehmen.
 Die grosse Frag ist, wieviele von uns dann noch eine Arbeitstelle haben werden.
