@@ -25,4 +25,6 @@ Eine Nutzerfreundliche Überarbeitung dieser Programme, die die Möglichkeit ein
 
 Lass uns nun zur Lerneinheit zurückkehren.
 Wir haben uns mit der Konfiguration von Koha, dem Datenimport und dem Datenexport beschäftigt.
-Meiner Meinung nach kannst du das Konfigurieren am besten lernen, indem du "explorativ herumklickst", sprich 
+Meiner Meinung nach kannst du das Konfigurieren am besten lernen, indem du "explorativ herumklickst", sprich die Verschiedenen Optionen nutzt und beobachtest was passiert.
+Zum Glück gibt es eine [Demoversion](https://koha.adminkuhn.ch:8443/) wo du das ausprobieren kannst.
+Benutzername ist ''demo'' und das Passwort ist auch ''demo''.
