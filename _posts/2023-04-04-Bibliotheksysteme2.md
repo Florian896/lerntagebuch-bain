@@ -27,4 +27,25 @@ Lass uns nun zur Lerneinheit zurückkehren.
 Wir haben uns mit der Konfiguration von Koha, dem Datenimport und dem Datenexport beschäftigt.
 Meiner Meinung nach kannst du das Konfigurieren am besten lernen, indem du "explorativ herumklickst", sprich die Verschiedenen Optionen nutzt und beobachtest was passiert.
 Zum Glück gibt es eine [Demoversion](https://koha.adminkuhn.ch:8443/) wo du das ausprobieren kannst.
-Benutzername ist ```demo``` und das Passwort ist auch ```demo```.
+Benutzername ist ``demo`` und das Passwort ist auch ``demo``.
+Viel Spass!
+
+Datenexport und Datenimport funktioniert, indem man eine sogenannte [Schnittstelle](https://de.wikipedia.org/wiki/Schnittstelle) ansteuert.
+Eine Schnittstelle ist ein Teil eines Programms, der nur der Kommunikation dient.
+Das kann kommunikation mit Menschen oder mit anderen Programmen sein.
+Die Schnittstelle die wir benuten heisst OAI-PMH.
+Das steht für ``Open Archives Initiative Protocol for Metadata Harvesting``.
+
+------------------------------------
+
+Exkurs: Datenexport und Schnittstellen
+Koha unterstützt dateibasierten Datenexport und diverse Schnittstellen.
+Wir nutzen hier die Schnittstelle OAI-PMH.
+OAI-PMH steht für Open Archives Initiative Protocol for Metadata Harvesting und ermöglicht regelmäßiges automatisiertes Abrufen von Änderungen.
+Im Themenblock “Metadaten modellieren und Schnittstellen nutzen” gehen wir noch genauer darauf ein.
+
+Vorab: Was nützt OAI-PMH meiner Bibliothek?
+Abruf der Daten zur Weiterverarbeitung (z. B. Discovery-System, Digitalisierung)
+Erstellung von z. B. Regionalbibliografien oder Themenportalen
+Aggregation für Verbundrecherchen
+Datenbereitstellung für Digitalisierung, Hackathons, etc.
