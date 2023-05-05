@@ -29,6 +29,8 @@ Meiner Meinung nach kannst du das Konfigurieren am besten lernen, indem du "expl
 Zum Glück gibt es eine [Demoversion](https://koha.adminkuhn.ch:8443/) wo du das ausprobieren kannst.
 Benutzername ist ``demo`` und das Passwort ist auch ``demo``.
 Viel Spass!
+Um es weniger ironisch zu formulieren: Ich glaube um dieses Programm wirklich zu verstehen und zu beherrschen müsstest du eine Weile regelmässig damit arbeiten.
+Ich empfehle mindestens sechs Monate für alle Programme dieser Art.
 
 Datenexport und Datenimport funktioniert, indem man eine sogenannte [Schnittstelle](https://de.wikipedia.org/wiki/Schnittstelle) ansteuert.
 Eine Schnittstelle ist ein Teil eines Programms, der nur der Kommunikation dient.
@@ -39,11 +41,7 @@ Koha unterstützt als offenes Programm diverse Schnittstellen.
 Auf die anderen sind wir aber nicht eingegangen.
 In einer folgenden Lerneinheit werden wir noch mehr dazu lernen.
 
-------------------------------------
+Die Marktsituation ist etwas besorgniserregend, aber noch haltbar.
+Wie in jedem freien Markt kaufen die verschiedenen Anbieter einander auf.
+Weil Grösse ein beachtlicher Marktvorteil ist, funktioniert die Taktik und führt, mit Zeit und Kapitalismus, richtung Monopol.
 
-
-Vorab: Was nützt OAI-PMH meiner Bibliothek?
-Abruf der Daten zur Weiterverarbeitung (z. B. Discovery-System, Digitalisierung)
-Erstellung von z. B. Regionalbibliografien oder Themenportalen
-Aggregation für Verbundrecherchen
-Datenbereitstellung für Digitalisierung, Hackathons, etc.
