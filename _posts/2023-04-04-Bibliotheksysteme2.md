@@ -44,4 +44,10 @@ In einer folgenden Lerneinheit werden wir noch mehr dazu lernen.
 Die Marktsituation ist etwas besorgniserregend, aber noch haltbar.
 Wie in jedem freien Markt kaufen die verschiedenen Anbieter einander auf.
 Weil Grösse ein beachtlicher Marktvorteil ist, funktioniert die Taktik und führt, mit Zeit und Kapitalismus, richtung Monopol.
+Die aktuelle Situation, wer wen gekauft hat, lässt sich [hier ablesen](https://librarytechnology.org/mergers/).
+Zum Glück gibt es noch Open Source Alternativen, wie Koha, was das Monopol verhindert.
+Ein Open Source Projekt kann man nähmlich nicht kaufen.
 
+Liebe Grüsse
+
+Florian
