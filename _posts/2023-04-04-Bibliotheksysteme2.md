@@ -35,14 +35,12 @@ Eine Schnittstelle ist ein Teil eines Programms, der nur der Kommunikation dient
 Das kann kommunikation mit Menschen oder mit anderen Programmen sein.
 Die Schnittstelle die wir benuten heisst OAI-PMH.
 Das steht für ``Open Archives Initiative Protocol for Metadata Harvesting``.
+Koha unterstützt als offenes Programm diverse Schnittstellen.
+Auf die anderen sind wir aber nicht eingegangen.
+In einer folgenden Lerneinheit werden wir noch mehr dazu lernen.
 
 ------------------------------------
 
-Exkurs: Datenexport und Schnittstellen
-Koha unterstützt dateibasierten Datenexport und diverse Schnittstellen.
-Wir nutzen hier die Schnittstelle OAI-PMH.
-OAI-PMH steht für Open Archives Initiative Protocol for Metadata Harvesting und ermöglicht regelmäßiges automatisiertes Abrufen von Änderungen.
-Im Themenblock “Metadaten modellieren und Schnittstellen nutzen” gehen wir noch genauer darauf ein.
 
 Vorab: Was nützt OAI-PMH meiner Bibliothek?
 Abruf der Daten zur Weiterverarbeitung (z. B. Discovery-System, Digitalisierung)
