@@ -10,7 +10,7 @@ Wir begannen mit einem Überblick über Standards von Metadaten in Archiven, sin
 Allerdings hat uns am Schluss die Zeit eingeholt.
 Ich werde dich jedoch dafür mit einem Sondereintsrag zu AtoM beglücken, der erläutert wie ich es im Vergleich zu ArchivesSpaces einschätze.
 
-Wie ich schon in einem der ersten Semester lernen durft, ist der grosse Metadatenstandard in Archiven (ISAD(G))[https://de.wikipedia.org/wiki/ISAD(G)].
+Wie ich schon in einem der ersten Semester lernen durft, ist der grosse Metadatenstandard in Archiven [ISAD(G)](https://de.wikipedia.org/wiki/ISAD(G)).
 
 
 --------
