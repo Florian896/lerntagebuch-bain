@@ -12,7 +12,11 @@ Ich werde dich jedoch dafür mit einem Sondereintsrag zu AtoM beglücken, der er
 
 Wie ich schon in einem der ersten Semester lernen durft, ist der grosse Metadatenstandard in Archiven [ISAD(G)](https://de.wikipedia.org/wiki/ISAD(G)).
 Zu deinem - und meinem - Glück haben wir die komplexen Feinheiten des Standards nicht behandelt, sondern sind auf einem theoretischeren level geblieben und haben uns darauf fokussiert wie ISAD(G) mit elektronischen Systemen interagiert.
-Denn ISAD(G) stammt aus der düsteren Vorzeit
+Denn ISAD(G) stammt (wie ich) aus dem späten zwanzigsten Jahrhundert.
+Obwohl es damals schon Computer gab, wurde der Standart auf den seit langem bewährten Ordnungssystemen der Mappen, Schachteln und Findbüchern aufgebaut.
+Findbücher sind der äquivalent zu den Karteikartensystemen der damaligen Bibliotheken.
+Während jedoch das Karteikartensystem die 
+
 
 --------
 
