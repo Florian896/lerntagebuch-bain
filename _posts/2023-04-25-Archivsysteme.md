@@ -28,20 +28,14 @@ Die aus dieser Geschichte folgenden Datenstrukturen sind nicht sehr nutzerfreund
 Die Einteilung sowie Darstellung erinnert oft an Ordnerstrukturen in Windows 95.
 Teilweise ist in den Systemen nur der Titel ersichtlich, der so unklare wie ein simples "Protokoll" sein kann.
 Erst der Zusammenhang wo in der Datenstruktur dieses "Protokoll" gespeichert wurde gibt Aufschluss worum es sich hier tatsächlich handelt.
+Alles ist sehr strikt geordnet, aber eine interne Verlinkung füreinander relevanter Archivalien verschiedener Promenienz ist nicht vorgesehen.
+Gelinde gesagt ist das nicht mehr zeitgemäss.
+
+
 
 --------
 
 NOTIZEN
-Teils nur Titel im Syst ersichtlich, blöd, weil man wissen muss wo dieses "Protokoll" dazugehört um draus zu kommen
-
-In diesem Standart alles nur an einem Ort zuordn-bar! Richtig DAMALS
-
-Namen ID (GND)
-
-heute Verknüpfungen möglich(er)
-
-...
-Übung
 
 EAD Datenformat
  - neuer
