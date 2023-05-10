@@ -24,19 +24,14 @@ Der Entstehungszusammenhang steht im Fokus.
 Es wird mit diesem Fokus in mehrstufigen Hirarchieen geordnet.
 Dies ist bei Archiven naheliegend, da ihenen oft Nachlässe direkt von Arichvalienproduzenten oder deren Nachfahren vermacht werden.
 
-
-Die aus dieser Geschichte folgenden Datenstrukturen sind daran angepasst.
-
-
-
+Die aus dieser Geschichte folgenden Datenstrukturen sind nicht sehr nutzerfreundlich.
+Die Einteilung sowie Darstellung erinnert oft an Ordnerstrukturen in Windows 95.
+Teilweise ist in den Systemen nur der Titel ersichtlich, der so unklare wie ein simples "Protokoll" sein kann.
+Erst der Zusammenhang wo in der Datenstruktur dieses "Protokoll" gespeichert wurde gibt Aufschluss worum es sich hier tatsächlich handelt.
 
 --------
 
 NOTIZEN
-Regelwerk: ISAD(G)
- - Als digitale Archivsysteme entwickelt wurden, orientierte sich die Datenstruktur an analogen Findmitteln wie Findbüchern (Archiv) und Zettelkästen (Bibi).
-	mehrstufig, promenjenz (woher)
-
 Teils nur Titel im Syst ersichtlich, blöd, weil man wissen muss wo dieses "Protokoll" dazugehört um draus zu kommen
 
 In diesem Standart alles nur an einem Ort zuordn-bar! Richtig DAMALS
