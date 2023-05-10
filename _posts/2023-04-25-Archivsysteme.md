@@ -8,19 +8,14 @@ Liebes Tagebuch
 Heute haben wir uns mit drei Themen beschäftigt.
 Wir begannen mit einem Überblick über Standards von Metadaten in Archiven, sind dann zur Installatin und Konfiguration von ArchivesSpace übergegangen und wollten mit einem Marktüberblick zu Archivsystemen abschliessen.
 Allerdings hat uns am Schluss die Zeit eingeholt.
-Ich werde dich jedoch dafür mit einem Sondereintsrag zu AtoM beglücken, der erläutert wie ich es zu ArchivesSpaces vergleichen würde.
+Ich werde dich jedoch dafür mit einem Sondereintsrag zu AtoM beglücken, der erläutert wie ich es im Vergleich zu ArchivesSpaces einschätze.
 
-
+Wie ich schon in einem der ersten Semester lernen durft, ist der grosse Metadatenstandard in Archiven (ISAD(G))[https://de.wikipedia.org/wiki/ISAD(G)].
 
 
 --------
 
 NOTIZEN
-Inhalt:
-Metadatenstandards in Archiven (ISAD(G) und EAD)
-Installation und Konfiguration von ArchivesSpace
-Marktüberblick Archivsysteme
-
 Regelwerk: ISAD(G)
  - Als digitale Archivsysteme entwickelt wurden, orientierte sich die Datenstruktur an analogen Findmitteln wie Findbüchern (Archiv) und Zettelkästen (Bibi).
 	Nachlässe oft Chaotisch. 
