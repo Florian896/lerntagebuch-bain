@@ -5,3 +5,49 @@ date: 2023-04-25
 
 Liebes Tagebuch
 
+Heute haben wir uns mit drei Themen beschäftigt.
+Wir begannen mit einem Überblick über Standards von Metadaten in Archiven, sind dann zur Installatin und Konfiguration von ArchivesSpace übergegangen und wollten mit einem Marktüberblick zu Archivsystemen abschliessen.
+Allerdings hat uns am Schluss die Zeit eingeholt.
+Ich werde dich jedoch dafür mit einem Sondereintsrag zu AtoM beglücken, der erläutert wie ich es zu ArchivesSpaces vergleichen würde.
+
+
+
+
+--------
+
+NOTIZEN
+Inhalt:
+Metadatenstandards in Archiven (ISAD(G) und EAD)
+Installation und Konfiguration von ArchivesSpace
+Marktüberblick Archivsysteme
+
+Regelwerk: ISAD(G)
+ - Als digitale Archivsysteme entwickelt wurden, orientierte sich die Datenstruktur an analogen Findmitteln wie Findbüchern (Archiv) und Zettelkästen (Bibi).
+	Nachlässe oft Chaotisch. 
+ - Ein wichtiger Verzeichnungsstandard im Archivwesen wurde 1994 (Revision 2000) eingeführt, die “International Standard Archival Description (General)” - kurz ISAD(G). 
+	mehrstufig, promenjenz (woher)
+ - Grundsätzlich gibt es hier eine mehrstufige Verzeichnung im Provenienzprinzip, um den Entstehungszusammenhang abzubilden.
+
+Teils nur Titel im Syst ersichtlich, blöd, weil man wissen muss wo dieses "Protokoll" dazugehört um draus zu kommen
+
+In diesem Standart alles nur an einem Ort zuordn-bar! Richtig DAMALS
+
+Namen ID (GND)
+
+heute Verknüpfungen möglich(er)
+
+...
+Übung
+
+EAD Datenformat
+ - neuer
+ - Austauschsformat
+ - MARC21 mangelt die Struktur
+ - 
+
+...
+
+- Name entety detection: Kontext verstehen und daraus folgern worum (um wen etc) es geht --> dings vergeben ()
+
+ArchiveSpace
+Hilfe (dokumentation/Tutorials) Kostenpflichtig
