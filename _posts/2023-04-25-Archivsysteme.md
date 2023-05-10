@@ -28,22 +28,18 @@ Die aus dieser Geschichte folgenden Datenstrukturen sind nicht sehr nutzerfreund
 Die Einteilung sowie Darstellung erinnert oft an Ordnerstrukturen in Windows 95.
 Teilweise ist in den Systemen vorerst nur der Titel ersichtlich, der so unklar wie ein simples "Protokoll" sein kann.
 Erst der Zusammenhang wo in der Datenstruktur dieses "Protokoll" gespeichert wurde, gibt Aufschluss worum es sich hier tatsächlich handelt.
-Alles ist sehr strikt geordnet, aber eine interne Verlinkung füreinander relevanter Archivalien verschiedener Promenienz ist nicht vorgesehen.
+Alles ist sehr strikt geordnet, aber eine interne Verlinkung füreinander relevanter Archivalien verschiedener Provenienz ist nicht vorgesehen.
 Gelinde gesagt ist das nicht mehr zeitgemäss.
 
-Es gibt das Archivdatenformat EAD.
+Es gibt das Archivdatenformat [EAD](https://de.wikipedia.org/wiki/Encoded_Archival_Description).
 Das ist neuer und wurde für den Datenaustausch entwickelt.
 Das in Bibliotheken äusserst weitverbreitete Datenformat MARC21 ist ungeeignet, da ihm die Struktur für Archivdaten fehlt.
+
+Das System das wir heute angeschaut haben, heisst ArchivesSpace.
+Es ist Open Source und wird von 400 zahlenden Mitgliedern getragen, woraus fast fünf Vollzeitstellen finanziert werden.
+Alles ist offen und Kostenfreai, ausser der Hilfe, dem Support, womit Geld verdient wird.
+Dies ist ein vermutlich einmaliges System, aber es scheint zu funktionieren.
 
 Liebe Grüsse
 
 Florian
-
-
---------
-
-NOTIZEN
-
-- Name entety detection: Kontext verstehen und daraus folgern worum (um wen etc) es geht --> dings vergeben ()
-ArchivesSpace
-Hilfe (dokumentation/Tutorials) Kostenpflichtig
