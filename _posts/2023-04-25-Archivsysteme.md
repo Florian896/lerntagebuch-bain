@@ -26,26 +26,24 @@ Dies ist bei Archiven naheliegend, da ihenen oft Nachlässe direkt von Arichvali
 
 Die aus dieser Geschichte folgenden Datenstrukturen sind nicht sehr nutzerfreundlich.
 Die Einteilung sowie Darstellung erinnert oft an Ordnerstrukturen in Windows 95.
-Teilweise ist in den Systemen nur der Titel ersichtlich, der so unklare wie ein simples "Protokoll" sein kann.
-Erst der Zusammenhang wo in der Datenstruktur dieses "Protokoll" gespeichert wurde gibt Aufschluss worum es sich hier tatsächlich handelt.
+Teilweise ist in den Systemen vorerst nur der Titel ersichtlich, der so unklar wie ein simples "Protokoll" sein kann.
+Erst der Zusammenhang wo in der Datenstruktur dieses "Protokoll" gespeichert wurde, gibt Aufschluss worum es sich hier tatsächlich handelt.
 Alles ist sehr strikt geordnet, aber eine interne Verlinkung füreinander relevanter Archivalien verschiedener Promenienz ist nicht vorgesehen.
 Gelinde gesagt ist das nicht mehr zeitgemäss.
 
+Es gibt das Archivdatenformat EAD.
+Das ist neuer und wurde für den Datenaustausch entwickelt.
+Das in Bibliotheken äusserst weitverbreitete Datenformat MARC21 ist ungeeignet, da ihm die Struktur für Archivdaten fehlt.
+
+Liebe Grüsse
+
+Florian
 
 
 --------
 
 NOTIZEN
 
-EAD Datenformat
- - neuer
- - Austauschsformat
- - MARC21 mangelt die Struktur
- - 
-
-...
-
 - Name entety detection: Kontext verstehen und daraus folgern worum (um wen etc) es geht --> dings vergeben ()
-
-ArchiveSpace
+ArchivesSpace
 Hilfe (dokumentation/Tutorials) Kostenpflichtig
