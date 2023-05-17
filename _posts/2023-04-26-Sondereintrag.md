@@ -25,6 +25,9 @@ Im System selbst fällt auf, dass das Design optisch relativ modern anmutet.
 Die Suche lässt sich dank der Fortgeschrittenen-Option gut verfeinern. 
 Beim Erfassen neuer Einträge erscheint bei jedem Feld bei reinklicken ein Text, der kurz und Bündig erklärt was in das entsprechende Feld kommt.
 
+In meinen - archivarisch unerfahrenen - Augen scheinen beide Programme gute Optionen zu sein. 
+Die Wahl sollte auf das jeweilige Archiv abgestimmt werden.
+Rein vom Bauchgefühl her, gefällt mir jedoch AtoM besser.
 
 Liebe Grüsse
 
