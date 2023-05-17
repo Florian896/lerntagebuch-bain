@@ -9,7 +9,7 @@ Liebes Tagebuch
 
 Wie versprochen vergleichen wir jetzt AtoM und ArchivesSpace.
 
-Ich habe ~~Clippy~~ ChatGPT nach seiner Meinung zum Thema gefragt, worauf es mir eine schöne [Zusammenfassung](https://florian896.github.io/lerntagebuch-bain/2023/4/27/Clippy.html) gab. 
+Ich habe ~~Clippy~~ ChatGPT nach seiner Meinung zum Thema gefragt, worauf es mir eine schöne [Zusammenfassung](https://florian896.github.io/lerntagebuch-bain/2023/04/27/Clippy.html) gab. 
 Sie ist zwar auf Englisch, aber ich fand sie eindrücklich.
 Für Programmevaluation ist es sehr hilfreich.
 
