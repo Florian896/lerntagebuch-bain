@@ -25,6 +25,7 @@ Im System selbst fällt auf, dass das Design optisch relativ modern anmutet.
 Die Suche lässt sich dank der Fortgeschrittenen-Option gut verfeinern. 
 Beim Erfassen neuer Einträge erscheint bei jedem Feld bei reinklicken ein Text, der kurz und Bündig erklärt was in das entsprechende Feld kommt.
 
+
 Liebe Grüsse
 
 Florian
