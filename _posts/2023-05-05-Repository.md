@@ -47,30 +47,20 @@ In mir entstand der Eindruck, dass jedes importieren ein fehleranfälliger aufwe
 Ich werde versuchen zu verhindern für einen verantwortlich zu sein.
 
 Mir geht schon wieder die Tinte aus.
-Lass mich noch ein paar wenige weiterführende Verweise anführen.
+Lass mich zum Abschied noch ein paar weiterführende Verweise anführen.
+
 + [Verzeichnis von Repositories](re3data.org)
-+ 
++ [Präsentationsfolien und Videomitschnitte der Präsentationen auf den jährlichen D/A/CH-Anwendertreffen](https://wiki.lyrasis.org/display/DSPACE/DSpace+Praxistreffen+2023)
++ [Abschnitt im Nutzerhandbuch von DSpace zu SEO](https://wiki.lyrasis.org/display/DSDOC7x/Search+Engine+Optimization)
++ [DSpace](https://www.dspace.org)
++ [EPrints](https://www.eprints.org)
++ [Fedora](http://fedorarepository.org) / [Islandora](https://islandora.ca)
++ [InvenioRDM](https://invenio-software.org/products/rdm/)
+  - besonders interessant, weil die zukünftige Basis von Zenodo am CERN
++ [MyCoRe](https://www.mycore.de)
++ [OPUS](https://www.opus-repository.org)
+
 
 Liebe Grüsse
 
 Florian
-
------------NOTIZEN-----------
-Literatur zu DSpace
-Präsentationsfolien und Videomitschnitte der Präsentationen auf den jährlichen D/A/CH-Anwendertreffen: https://wiki.lyrasis.org/display/DSPACE/DSpace+Praxistreffen+2023
-
-Grundsätzliches zu Repositorien: https://open-access.network/informieren/publizieren/repositorien
-Open Directory of Open Access Repositories (OpenDOAR)
-Weltweit
-Schweiz
-Open Access Repository Ranking 2015 (via Wayback-Machine)
-Relevante Systeme in D/A/CH
-Alle Open Source!
-
-DSpace
-EPrints
-Fedora / Islandora
-InvenioRDM
-besonders interessant, weil die zukünftige Basis von Zenodo am CERN
-MyCoRe
-OPUS
