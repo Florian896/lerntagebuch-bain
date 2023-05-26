@@ -14,7 +14,7 @@ Liebes Tagebuch
 VL9
 Feedback
 ORCID
-researchgate.net (beliebt aber problematisch, warum Problematisch?)
+researchgate.net (beliebt aber problematisch, warum Problematisch?) (sieht aus wie facebook/Tinder/LinkedIn für Wissenschaftler:innen?)
 
 erster teil schwierig zu folgen
 	haben einfach über cmd verschiedene harvest methoden von VuFindHarvest ausprobiert bei Koha, ArchivesSpace und DSpace
