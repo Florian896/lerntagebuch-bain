@@ -39,6 +39,7 @@ BSP: Referenz zu anderem xml ERROR
 chatGPT? will nicht. Kanns verstehen und menschlich erklären, aber nicht konvertieren
 Oh, liess sich überreden ein BSP zu machen
 SEHR LANGSAM, schreibt die Zeilen einzeln
+Resultat: https://florian896.github.io/lerntagebuch-bain/ClippyCodes.html
 
 wir machens mit MarcEdit
 fee to use, nicht open source
