@@ -7,6 +7,11 @@ title: "Repository-Software für Publikationen und Forschungsdaten"
 
 Liebes Tagebuch
 
+Wir haben, wie der Titel schon verrät, Repository - also dedizierte Datenbanken - für Publikationen und Forschungsdaten angeschaut.
+Früher wurden nur Artikel und Bücher publiziert, nicht die unverarbeiteten Daten.
+Mit modernen Methoden und Möglichkeiten dank Repositories, werden heute die unglaublichen Mengen an Forschungsdaten roh - aber anonymisiert - gleich mitveröffentlicht, was weiterführende Forschung erleichtert.
+Wir haben uns insbesondere auf das Open Source Programm DSpace konzentriert, weil es ein weitverbreitetes Programm mit grossem Marktanteil ist, das gratis genutzt werden kann.
+
 Um DSpace anzuschauen hat uns der Dozent einen Code Space vorbereitet.
 Er warnte uns, das das Initialisieren des Code Spaces ziemlich lange dauert.
 Darum habe ich sofort meinen Code Space gestartet. 
@@ -17,7 +22,13 @@ Ich liess es arbeiten und legte eine Pause ein.
 Etwa vierzig Minuten später war das Terminal noch immer am schreiben, was mich misstrauisch stimmte.
 Ich probierte ob es mich weitermachen liess und siehe da, es funktionierte!
 Liebes Tagebuch, Computer nicht zu ernst zu nehmen und Dinge einfach auszuprobieren lohnt sich fast immer.
-Im schlimmstem Fall kannst Du das Ding einfach neustarten.
+Im schlimmstem Fall kannst Du das Ding einfach Neustarten.
+
+Mit DSpace zu arbeiten ist eine sehr involvierte Sache.
+Die Benutzeroberfläche ist alles andere als intuitiv.
+Die Menüs ändern sich je nachdem, in welcher Ansicht man sich befindet; um eine bestimmte Option zu finden, muss man zuerst in der richtigen Ansicht sein.
+Hat man das erreicht, verstecken sich die Optionen unter allgemeinen Begriffen wie ``Create``.
+Die Logik die sich dahinter verbirgt, verbirgt sich sehr gut.
 
 
 
