@@ -15,7 +15,7 @@ Wir haben uns insbesondere auf das Open Source Programm DSpace konzentriert, wei
 Um DSpace anzuschauen hat uns der Dozent einen Code Space vorbereitet.
 Er warnte uns, das das Initialisieren des Code Spaces ziemlich lange dauert.
 Darum habe ich sofort meinen Code Space gestartet. 
-Da ich die Vorlesung als Aufnahme in zweifafcher geschwindigkeit schaute, war ich nicht überrascht, als mein Code Space nicht rechtzeitig für die Übung bereit war.
+Da ich die Vorlesung als Aufnahme in zweifacher Geschwindigkeit schaute, war ich nicht überrascht, als mein Code Space nicht rechtzeitig für die Übung bereit war.
 Das Terminal war noch am erklären was es genau wie am installieren war.
 Ich verstand nichts davon.
 Ich liess es arbeiten und legte eine Pause ein.
@@ -29,17 +29,17 @@ Die Benutzeroberfläche ist alles andere als intuitiv.
 Die Menüs ändern sich je nachdem, in welcher Ansicht man sich befindet; um eine bestimmte Option zu finden, muss man zuerst zum richtigen Ort navigieren.
 Hat man das erreicht, verstecken sich die Optionen unter allgemeinen Begriffen wie ``Create``.
 Die Logik die sich dahinter verbirgt, verbirgt sich sehr gut.
-Dafür lässt sich alles individuell einrichtien.
+Dafür lässt sich alles individuell einrichten.
 Es scheint sehr mächtig zu sein und vermutlich ist die Systeminfrastruktur genial, was bedeutet, dass es eine super Option ist, wenn man die grosse Einarbeitungshürde bezwingt.
 
-Um das Program kennenzulernen haben wir eine Datei importiert und wieder exportiert.
+Um das Programm kennenzulernen haben wir eine Datei importiert und wieder exportiert.
 Wir haben MARC21 verwendet, was ein Format ist, das für Bibliotheken entwickelt wurde.
-Wir hätten ein beliebeiges anderes nehmen können, aber ich bin froh haben wir dieses genommen, weil ich bereits damit vertraut bin.
+Wir hätten ein beliebiges anderes nehmen können, aber ich bin froh haben wir dieses genommen, weil ich bereits damit vertraut bin.
 Wir verglichen unseren Datensatz vor dem Import, danach und nach dem Export.
 Verlustfrei ist anders.
-Jegliche Felder die DSpace nicht kennt weden einfach ignoriert und nicht importiert.
+Jegliche Felder die DSpace nicht kennt werden einfach ignoriert und nicht importiert.
 Scheinbar ist das nicht nur ein Problem mit MARC21, sondern generell bei jedem konvertieren.
-Bei kleinen Übungsdatensätzen kann händisch verglichen und korrigiert werden, bei grösseren jedoch, beischpielsweise von einem Archiv, wird das schwierig bis unmöglich.
+Bei kleinen Übungsdatensätzen kann händisch verglichen und korrigiert werden, bei grösseren jedoch, beispielsweise von einem Archiv, wird das schwierig bis unmöglich.
 Es ist also ein maschinelles Überprüfen des Resultats nötig.
 Wie so eine Prüfung vollbracht werden könnte, haben wir jedoch nicht behandelt.
 Wird ein Datentyp nicht erkannt, kann sogar der ganze Import mit einer Fehlermeldung abbrechen.
