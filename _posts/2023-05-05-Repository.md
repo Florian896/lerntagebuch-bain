@@ -29,6 +29,8 @@ Die Benutzeroberfläche ist alles andere als intuitiv.
 Die Menüs ändern sich je nachdem, in welcher Ansicht man sich befindet; um eine bestimmte Option zu finden, muss man zuerst zum richtigen Ort navigieren.
 Hat man das erreicht, verstecken sich die Optionen unter allgemeinen Begriffen wie ``Create``.
 Die Logik die sich dahinter verbirgt, verbirgt sich sehr gut.
+Dafür lässt sich alles individuell einrichtien.
+Es scheint sehr mächtig zu sein und vermutlich ist die Systeminfrastruktur genial, was bedeutet, dass es eine super Option ist, wenn man die grosse Einarbeitungshürde bezwingt.
 
 Um das Program kennenzulernen haben wir eine Datei importiert und wieder exportiert.
 Wir haben MARC21 verwendet, was ein Format ist, das für Bibliotheken entwickelt wurde.
@@ -44,61 +46,19 @@ Wird ein Datentyp nicht erkannt, kann sogar der ganze Import mit einer Fehlermel
 In mir entstand der Eindruck, dass jedes importieren ein fehleranfälliger aufwendiger Prozess ist, der leicht unterschätzt wird.
 Ich werde versuchen zu verhindern für einen verantwortlich zu sein.
 
+Mir geht schon wieder die Tinte aus.
+Lass mich noch ein paar wenige weiterführende Verweise anführen.
++ [Verzeichnis von Repositories](re3data.org)
++ 
+
+Liebe Grüsse
+
+Florian
 
 -----------NOTIZEN-----------
-
-Repository Software für Forschungsdaten
-
-gibt viiel, open Science dings
-häufigstes DSpace (Das schauen wir an)
-Artikel, Thesis und dis, Bücher, etc
-wächst
-grün: zuerst verlag, verlag soll zitiert werden, aber auch open
-gold: direkt open von anfang an
-diamat: neuestes
-OpenData: Forschungsdaten
-Covid forschung konnte so beschleunigt werden
-Klimawandel: gut gegen fake Science von Öl-Multis
-
-re3data.org
-verzeichnis von Repositories
-Fach- vs Institutionelle Repositorien: Für Forschungsfach (Physich) oder von Institution (FHGR).
-
-DSpace
-TUHH Open Research: DSpace-CRIS (Curren Research Info System)
-Zenodo von CERN: grosszügig, kostenfrei, gut, empfohlen
-
-Dublin Core 
-kernelemente, einige mehr in DC Space, wann eingereicht, veröffentlicht etc. Reicht für Publikationen oft aus
-
-DUI: werden von verschiedenen Org ausgegeben
-doi.org: DOI foundation 
-Metadatenstandard: Qualified Dublin Core
-DSpace 7 neu, recht anders. Wir schauen 6 an
-
-anderes Menu oben bei admin-bereich
-
-zur Übung "Erstellen Sie eine Community und legen Sie darin eine Collection an."
-
-niemand hat die Berechtigungen entdeckt, drum nicht geklappt. sind unter Communiti anlegen --> edit --> EPerson nutzer zuweisen
-...sehr intuitiv...
-jeweils auf next. Zuerst Admin, dann Submittors, dann Workflow konfigurieren. Sehr Mächtig, sehr involviert
-==> quasi das gegenteil von Apple
-
-man kann dies umgehen via SWORD (link in Codi) ist Schnittstelle, Anzeige kann via RSS-feeds erfolgen
-kann hochladen: zeugs ausfüllen (soll kunde das wirklich selbst alles? Ev nicht einheitlich so)
-Dann Dokument hochladen
-
-Review: Take Task, annehmen, kann auch zurückgeben
-Bei collection definiert was Reviewer alles machen Kann/Muss
-min Approve/Reject
-
-Drübergeflogen in letzten min. Aus Codi kopiert:
----
 Literatur zu DSpace
 Präsentationsfolien und Videomitschnitte der Präsentationen auf den jährlichen D/A/CH-Anwendertreffen: https://wiki.lyrasis.org/display/DSPACE/DSpace+Praxistreffen+2023
-Suchmaschinenoptimierung (SEO): Abschnitt im Nutzerhandbuch von DSpace zu SEO
-Marktüberblick Repository-Software
+
 Grundsätzliches zu Repositorien: https://open-access.network/informieren/publizieren/repositorien
 Open Directory of Open Access Repositories (OpenDOAR)
 Weltweit
