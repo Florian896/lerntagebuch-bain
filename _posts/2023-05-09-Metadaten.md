@@ -19,7 +19,7 @@ researchgate.net (beliebt aber problematisch, warum Problematisch?)
 erster teil schwierig zu folgen
 	haben einfach über cmd verschiedene harvest methoden von VuFindHarvest ausprobiert bei Koha, ArchivesSpace und DSpace
 (mir erschloss sich der Sinn / das Lernziel nicht)
-(Ich weiss jetzt, dass es Austauschprotokolle giebt und das OAI-PMH teil des Terminal-Befehls ist, aber wie/wiso es funktioniert...?)
+(Ich weiss jetzt, dass es Austauschprotokolle giebt und das OAI-PMH teil des Terminal-Befehls ist, aber wie/wiso es funktioniert... Ist einfach ein Standard, der viel verwendet wird und Praktisch ist zum Konvertieren oder ist es ein Algrythmus odder so?)
 
 Crosswalk DC zu MARC
 von Lib o Cong
