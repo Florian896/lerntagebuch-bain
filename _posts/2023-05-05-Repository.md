@@ -26,19 +26,14 @@ Im schlimmstem Fall kannst Du das Ding einfach Neustarten.
 
 Mit DSpace zu arbeiten ist eine sehr involvierte Sache.
 Die Benutzeroberfläche ist alles andere als intuitiv.
-Die Menüs ändern sich je nachdem, in welcher Ansicht man sich befindet; um eine bestimmte Option zu finden, muss man zuerst in der richtigen Ansicht sein.
+Die Menüs ändern sich je nachdem, in welcher Ansicht man sich befindet; um eine bestimmte Option zu finden, muss man zuerst zum richtigen Ort navigieren.
 Hat man das erreicht, verstecken sich die Optionen unter allgemeinen Begriffen wie ``Create``.
 Die Logik die sich dahinter verbirgt, verbirgt sich sehr gut.
 
 
 
 -----------NOTIZEN-----------
-
-Nachtrag:
-werden DSpace anschauen (wiss publ)
 wir vereinheitlichen mit MARC21 (könnten beliebiges anderes nehmen)
-das Starten des CodeSpace geht ewig!
-	nach 40 min warten realisiert, das Terminal hört nicht auf zu schreiben, kann trozdem weitermachen
 
 Import (übung)
 Teils Info wird nicht übernommen
