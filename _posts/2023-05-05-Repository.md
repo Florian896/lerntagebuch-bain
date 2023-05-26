@@ -40,19 +40,12 @@ Scheinbar ist das nicht nur ein Problem mit MARC21, sondern generell bei jedem k
 Bei kleinen Übungsdatensätzen kann händisch verglichen und korrigiert werden, bei grösseren jedoch, beischpielsweise von einem Archiv, wird das schwierig bis unmöglich.
 Es ist also ein maschinelles Überprüfen des Resultats nötig.
 Wie so eine Prüfung vollbracht werden könnte, haben wir jedoch nicht behandelt.
+Wird ein Datentyp nicht erkannt, kann sogar der ganze Import mit einer Fehlermeldung abbrechen.
+In mir entstand der Eindruck, dass jedes importieren ein fehleranfälliger aufwendiger Prozess ist, der leicht unterschätzt wird.
+Ich werde versuchen zu verhindern für einen verantwortlich zu sein.
+
 
 -----------NOTIZEN-----------
-
-Import (übung)
-Teils Info wird nicht übernommen
-besten maschinell überprüfen
-schweirig zu navigieren
-muss am richtigen ort hinnavigiren um die Optionen sichtbar zu machen
-
-==> teils fehlen details (wenn es das feld nicht gib - MARC ist ja für bibis - wird das feld ge-dropped)
---> import kann wegen "fehler" abbrechen, weil datentyp
-
-----------
 
 Repository Software für Forschungsdaten
 
