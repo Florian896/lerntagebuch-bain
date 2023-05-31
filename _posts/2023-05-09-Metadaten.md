@@ -54,20 +54,15 @@ Dazu kommt, dass es schon lange existiert und konsistent stabil ist.
 Deshalb hat es sich als Standard durchgesetzt.
 Natürlich kann auch MarcEdit nicht Zaubern und Konvertierung bleibt verlustbehaftet.
 
-------NOTIZEN------
-XSLT ist STANDART für XML
-wie in Teil I (LINK) erwähnt, programmer historian und so
-Online-Tool: http://xsltransform.net live konvertieren, PRAKTISCH
-teils klappts, teils nicht
-BSP: Referenz zu anderem xml ERROR
+Zum Abschluss habe ich noch ein paar Links für dich.
+ + [Der Programminghistorian ist wie immer empfehlenswert](https://programminghistorian.org/en/lessons/transforming-xml-with-xsl)
+ + [Ein (beschränktes) Online-Tool](http://xsltransform.net)
+ + [MarcEdit!](https://marcedit.reeset.net)
+ + [MarcEdit Lektion von Library Carpentry](https://librarycarpentry.org/lc-marcedit/)
+ + [OpenRefine Wiki](https://github.com/OpenRefine/OpenRefine/wiki/Export-as-MARCXML)
+ + [Weitere Tools zur Metadatentransformation](https://pad.gwdg.de/#Weitere-Tools-zur-Metadatentransformation)
 
-untertitel verloren, versch verloren
 
-besten validieren vorher und nacher
-vorher felder anpassen etc
-sachen gehen verloren
-je nachdem was man will
+Liebe Grüsse
 
-JASON einfacher zu lesen als MARC21
-
-Ende codi dokument Links und so, schaus an!
+Florian
