@@ -3,6 +3,8 @@ date: 2023-05-10
 title: "ChatGPT konventiert (nicht zum Christentum)"
 ---
 
+I first asked ChatGPT to explain the structure of the sample file.
+
 In the provided XML snippet, the structure of the EAD finding aid can be summarized as follows:
 
 - ead: The root element of the EAD document.
