@@ -5,6 +5,7 @@ title: "ChatGPT konventiert (nicht zum Christentum)"
 
 I first asked ChatGPT to explain the structure of the sample file.
 
+```
 In the provided XML snippet, the structure of the EAD finding aid can be summarized as follows:
 
 - ead: The root element of the EAD document.
@@ -24,6 +25,7 @@ In the provided XML snippet, the structure of the EAD finding aid can be summari
 
   
   Understanding the structure of an EAD finding aid helps in comprehending the organization and relationships between different sections, which is important for effectively utilizing the information contained within the finding aid.
+```
 
   When asked for the code it provided the following:
   
