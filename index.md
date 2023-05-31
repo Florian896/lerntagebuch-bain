@@ -20,3 +20,4 @@ Ich freue mich, dass Du da bist. Ich schreibe hier über meine Erfahrungen im Ku
 [08 Metadaten modellieren und Schnittstellen nutzen, Teil II](https://florian896.github.io/lerntagebuch-bain/2023/05/09/Metadaten.html)  
 [09 Suchmaschinen und Discovery-Systeme](https://florian896.github.io/lerntagebuch-bain/2023/05/16/Suchmaschinen.html)  
 [10 Linked Data](https://florian896.github.io/lerntagebuch-bain/2023/05/30/newname.html)  
+[11 TITEL](https://florian896.github.io/lerntagebuch-bain/2023/05/31/abfuehrung.html)
