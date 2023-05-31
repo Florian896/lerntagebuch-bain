@@ -32,6 +32,8 @@ Fleissig wie ich bin, habe ich gleich [Überprüft was ChatGPT aus der Aufgabe m
 Es lässt sich validieren.
 Ob es fehlerfrei und vollständig ist, kann ich leider nicht mit abschliessender Sicherheit sagen.
 Für meine Augen sieht es aber gut aus.
+Es dauert jedoch sehr lange, da ChatGPT jede Zeile einzeln generiert.
+
 Die Library of Congress hat einen offiziellen Standard definiert, der eigentlich im Idealfall verlustfrei sein sollte.
 Ein Kommulitone meldete sich aber sofort und erläuterte, dass die Standards je nach Organisation verschieden interpretiert würden.
 Eine Konvertierung eines ganzen Datensatzes von einer anderen Organisation würde wohl aus Chaos noch mehr Chaos machen.
@@ -41,21 +43,17 @@ Womit man wieder bei einem Ähnlichen Problem ist wie am Anfang.
 Effektiv kann es hilfreich sein, wenn beispielsweise der Verlag Daten in einem für uns ungünstigen Format liefert.
 
 
-------NOTIZEN------
-USECASE: eine format vom Verlag geliefert, anderes gebraucht
 
+
+------NOTIZEN------
 XSLT ist STANDART für XML
 wie in Teil I (LINK) erwähnt, programmer historian und so
 Online-Tool: http://xsltransform.net live konvertieren, PRAKTISCH
 teils klappts, teils nicht
 BSP: Referenz zu anderem xml ERROR
-chatGPT? will nicht. Kanns verstehen und menschlich erklären, aber nicht konvertieren
-Oh, liess sich überreden ein BSP zu machen
-SEHR LANGSAM, schreibt die Zeilen einzeln
-Resultat: https://florian896.github.io/lerntagebuch-bain/ClippyCodes.html
 
 wir machens mit MarcEdit
-fee to use, nicht open source
+free to use, nicht open source
 von einer person, aber so stabil und lange da, dass es zum Standard wurde.
 man merkt, das von einem gemacht: alte logos, pixel, gewachsenes menü
 ABER sehr mächtig, funzt gut
@@ -66,7 +64,6 @@ besten validieren vorher und nacher
 vorher felder anpassen etc
 sachen gehen verloren
 je nachdem was man will
-
 
 JASON einfacher zu lesen als MARC21
 
