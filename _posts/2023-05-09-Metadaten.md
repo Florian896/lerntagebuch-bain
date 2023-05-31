@@ -21,10 +21,14 @@ Es gieng verwirrend weiter.
 Wir haben via Eingabebefehl verschiedene Erntemethoden von VuFindHarvest ausprobiert.
 Nähmlich via Koha, ArchivesSpace und DSpace.
 Bemerkenswert ist, das die Eingabebefehle Internetadressen enthielten, deren Inhalt dann geerntet wurde.
-Kein Programm musste zwischengeschaltet werden.
+Kein extra Programm musste zwischengeschaltet werden.
 Das ominöse OAI-PMH war Teil jedes Befehls, doch ob es ein Programm, ein Standard oder ein Algorythmus ist, erschloss sich mir erst als ich Doktor Wikipedia um [Rat](https://en.wikipedia.org/wiki/Open_Archives_Initiative_Protocol_for_Metadata_Harvesting) bat.
 Die Antwort liegt im Namen, der nähmlich ein Acronym ist, das verrät, dass es sich um ein Protokoll, also einen Algorythmus - sprich eine Methode - handelt.
 Bitte erinner mich dran bei der nächsten Verwirrung gleich Wikipedia zu besuchen.
+
+Eine Konvertierung eines Metadatenstandards in einen anderen, nennt man gemeinhin einen "Crosswalk".
+Wie zum Beischpiel ein Crosswalk von DC zu MARC21-XML.
+
 
 
 
