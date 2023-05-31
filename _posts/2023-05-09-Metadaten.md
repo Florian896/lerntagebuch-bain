@@ -28,19 +28,20 @@ Bitte erinner mich dran bei der nächsten Verwirrung gleich Wikipedia zu besuche
 
 Eine Konvertierung eines Metadatenstandards in einen anderen, nennt man gemeinhin einen "Crosswalk".
 Wie zum Beischpiel ein Crosswalk von DC zu MARC21-XML.
-
-
+Fleissig wie ich bin, habe ich gleich [Überprüft was ChatGPT aus der Aufgabe macht](https://florian896.github.io/lerntagebuch-bain/ClippyCodes.html).
+Es lässt sich validieren.
+Ob es fehlerfrei und vollständig ist, kann ich leider nicht mit abschliessender Sicherheit sagen.
+Für meine Augen sieht es aber gut aus.
+Die Library of Congress hat einen offiziellen Standard definiert, der eigentlich im Idealfall verlustfrei sein sollte.
+Ein Kommulitone meldete sich aber sofort und erläuterte, dass die Standards je nach Organisation verschieden interpretiert würden.
+Eine Konvertierung eines ganzen Datensatzes von einer anderen Organisation würde wohl aus Chaos noch mehr Chaos machen.
+Tatsächliche Verwendung in der Praxis finden Corsswalks eher via einer (verlustbehafteten) Vereinfachung des Datensatzes dank DC-Kompremierung.
+Das Resultat muss formell, aber vorallem auch inhaltlich validiert werden.
+Womit man wieder bei einem Ähnlichen Problem ist wie am Anfang.
+Effektiv kann es hilfreich sein, wenn beispielsweise der Verlag Daten in einem für uns ungünstigen Format liefert.
 
 
 ------NOTIZEN------
-Crosswalk DC zu MARC
-von Lib o Cong
-gut definiert
-offizieller standard
-ABER Orgs verwenden die Felder leicht unterschiedlicher
-aus chaos wird mehr chaos
-um es sinnvoll zu machen, wird von DOz empfohlen erst runter in dc zu pressen mit verweis zu orig
-SCHLECHT für Migration
 USECASE: eine format vom Verlag geliefert, anderes gebraucht
 
 XSLT ist STANDART für XML
