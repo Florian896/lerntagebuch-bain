@@ -7,18 +7,26 @@ title: "Metadaten modellieren und Schnittstellen nutzen, Teil II"
 
 Liebes Tagebuch
 
+Das war für mich ein schwieriger Block. 
+Wir haben schön langsam mit Dozentenrückmeldung zu unseren Einträgen begonnen und sind direkt zu einer Einführung zu [ORCID](https://orcid.org/) übergegangen.
+ORCID ist die Wissenschaftleridentifizierungsnummer, die du sicher schon kennst.
+Darauf wurde researchgate.net erwähnt, was ich noch nicht kannte.
+Es sei beliebt aber problematisch. 
+Warum dem so sei wurde nicht erläutert. 
+Für mich sieht es aus wie ein facebook/Tinder/LinkedIn für Wissenschaftler:innen.
+Was alles beliebte, aber problematische Serviceanbieter sind.
+Vielleicht meinte er das.
+
+Es gieng verwirrend weiter.
+Wir haben via Eingabebefehl verschiedene Erntemethoden von VuFindHarvest ausprobiert.
+Nähmlich via Koha, ArchivesSpace und DSpace.
+Das ominöse OAI-PMH war Teil jedes Befehls, doch ob es ein Programm, ein Standard oder ein Algorythmus ist, erschloss sich mir erst als ich Doktor Wikipedia um [Rat](https://en.wikipedia.org/wiki/Open_Archives_Initiative_Protocol_for_Metadata_Harvesting) bat.
+Die Antwort liegt im Nahmen, der nähmlich ein Acronym ist, das verrät, dass es sich um ein Protokoll, also einen Algorythmus - sprich eine Methode - ist.
+Bitte erinner mich dran bei der nächsten Verwirrung gleich Wikipedia zu besuchen.
+
 
 
 ------NOTIZEN------
-
-VL9
-Feedback
-ORCID
-researchgate.net (beliebt aber problematisch, warum Problematisch?) (sieht aus wie facebook/Tinder/LinkedIn für Wissenschaftler:innen?)
-
-erster teil schwierig zu folgen
-	haben einfach über cmd verschiedene harvest methoden von VuFindHarvest ausprobiert bei Koha, ArchivesSpace und DSpace
-(mir erschloss sich der Sinn / das Lernziel nicht)
 (Ich weiss jetzt, dass es Austauschprotokolle giebt und das OAI-PMH teil des Terminal-Befehls ist, aber wie/wiso es funktioniert... Ist einfach ein Standard, der viel verwendet wird und Praktisch ist zum Konvertieren oder ist es ein Algrythmus odder so?)
 
 Crosswalk DC zu MARC
