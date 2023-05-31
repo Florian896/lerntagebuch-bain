@@ -20,15 +20,15 @@ Vielleicht meinte er das.
 Es gieng verwirrend weiter.
 Wir haben via Eingabebefehl verschiedene Erntemethoden von VuFindHarvest ausprobiert.
 Nähmlich via Koha, ArchivesSpace und DSpace.
+Bemerkenswert ist, das die Eingabebefehle Internetadressen enthielten, deren Inhalt dann geerntet wurde.
+Kein Programm musste zwischengeschaltet werden.
 Das ominöse OAI-PMH war Teil jedes Befehls, doch ob es ein Programm, ein Standard oder ein Algorythmus ist, erschloss sich mir erst als ich Doktor Wikipedia um [Rat](https://en.wikipedia.org/wiki/Open_Archives_Initiative_Protocol_for_Metadata_Harvesting) bat.
-Die Antwort liegt im Nahmen, der nähmlich ein Acronym ist, das verrät, dass es sich um ein Protokoll, also einen Algorythmus - sprich eine Methode - ist.
+Die Antwort liegt im Namen, der nähmlich ein Acronym ist, das verrät, dass es sich um ein Protokoll, also einen Algorythmus - sprich eine Methode - handelt.
 Bitte erinner mich dran bei der nächsten Verwirrung gleich Wikipedia zu besuchen.
 
 
 
 ------NOTIZEN------
-(Ich weiss jetzt, dass es Austauschprotokolle giebt und das OAI-PMH teil des Terminal-Befehls ist, aber wie/wiso es funktioniert... Ist einfach ein Standard, der viel verwendet wird und Praktisch ist zum Konvertieren oder ist es ein Algrythmus odder so?)
-
 Crosswalk DC zu MARC
 von Lib o Cong
 gut definiert
