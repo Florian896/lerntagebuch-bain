@@ -38,13 +38,12 @@ Welches Feld welche Zahl erhält wurde durch Erfahrungswerte bestimmt.
 Schlussendlich wird das Suchresultat im JASON Format ausgegeben.
 Das ist gerade so menschenlesbar, dafür aber sehr praktisch für Schnittstellen, die Solr einbinden.
 
+Ein cleverer Schachzug von VuFind ist es, die Facetten, die Solr angiebt als "ähnliche Schlagwörter" anzuzeigen.
+Damit wird eine sehr praktische Funktionalität einfach eingebunden und in selbsterklärender Form den Nutzenden angeboten.
+Auch eine Autovervollständigung wird angeboten, die sogar Suchfeldspezifisch ist.
+Solr ist schnell genug um das sinnvoll umzusetzen.
 
-
-----NOTIZEN----  
-
-ähnliche Schlagwörter == Facette
-Relevanzranking: Feld und Multiplationsfaktor
-	oft ausprobiert, Standart ist Erfahrungswert
+----NOTIZEN----
 
 autovervollständigung: sucht live, ist hier suchfeldabhängig
 kann def wie lange warten bis suche (1 s oder so)
