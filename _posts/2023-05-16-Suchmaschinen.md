@@ -46,14 +46,17 @@ Solr ist schnell genug um das sinnvoll umzusetzen.
 Ein Trick den wir gelernt haben, ist die ``config`` Datei zu kopieren und unsere Einstellungen (via Textbearbeitung) an der Kopie vorzunehmen.
 So löscht uns kein Update Einstellungen.
 
+Ich habe es garnicht gemerkt, aber hier macht das Bild aus dem Unterricht endlich sinn:
+
+<img=scr:https://pad.gwdg.de/uploads/c8d2a2dc-b427-4330-a665-b355a2a85f50.png \>
+
+
+
 Liebe Grüsse
 
 Florian
 
 ----NOTIZEN----
-
-extra config file um std datei zu erhalten
-text datei, können wir einfach ändern (breaks translation)
 
 ID feld fehlt --> FEHLER, MUSS
 MARC hat keins, wir schreiben eine rein
@@ -61,12 +64,3 @@ VuFind macht Mapping. 01 wird ID
 recht komplex
 Muss ev Mapping MARC zu VuF anpassen
 müssen in MARCXML umwandeln. ZB DC oder so müssen wir ins MARC21XML umwandeln. SIEHE BILD MIT FLOWCHART
-
-für Ausleihe brauchts dann nochmal Datenbank-Schnittstelle
-Wer, Berechtigungen, 2 Schnittstellen (Unpaywall und DNB Verfügbarkeit), lädt sehr schnell!!
-ALMA/PRIMO Blackbox, weil proprietär
-Technisch getrennt, wird zusammen geleifert
-(VuFind: Discovery)
-
-Discovery Syst
-Software | Daten (daten: meta-, etc)
