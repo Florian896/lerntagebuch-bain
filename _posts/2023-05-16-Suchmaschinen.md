@@ -40,13 +40,13 @@ Das ist gerade so menschenlesbar, dafür aber sehr praktisch für Schnittstellen
 
 Ein cleverer Schachzug von VuFind ist es, die Facetten, die Solr angiebt als "ähnliche Schlagwörter" anzuzeigen.
 Damit wird eine sehr praktische Funktionalität einfach eingebunden und in selbsterklärender Form den Nutzenden angeboten.
-Auch eine Autovervollständigung wird angeboten, die sogar Suchfeldspezifisch ist.
+Auch eine Autovervollständigung wird angeboten, die sogar Suchfeld-spezifisch ist.
 Solr ist schnell genug um das sinnvoll umzusetzen.
 
 Ein Trick den wir gelernt haben, ist die ``config`` Datei zu kopieren und unsere Einstellungen (via Textbearbeitung) an der Kopie vorzunehmen.
 So löscht uns kein Update Einstellungen.
 
-Ich habe es garnicht gemerkt, aber hier macht das Bild aus dem Unterricht endlich sinn:
+Ich habe es gar nicht gemerkt, aber hier macht das Bild aus dem Unterricht endlich sinn:
 
 ![ ](https://pad.gwdg.de/uploads/c8d2a2dc-b427-4330-a665-b355a2a85f50.png)
 
@@ -55,12 +55,3 @@ Solr braucht sein Input in MARC21-XML und kann wunderbar in VuFind ausgegeben we
 Liebe Grüsse
 
 Florian
-
-----NOTIZEN----
-
-ID feld fehlt --> FEHLER, MUSS
-MARC hat keins, wir schreiben eine rein
-VuFind macht Mapping. 01 wird ID
-recht komplex
-Muss ev Mapping MARC zu VuF anpassen
-müssen in MARCXML umwandeln. ZB DC oder so müssen wir ins MARC21XML umwandeln. SIEHE BILD MIT FLOWCHART
