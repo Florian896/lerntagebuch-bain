@@ -21,24 +21,26 @@ Die Entwickler sind eine Open Source Community, die sehr aktiv an VuFind arbeite
 Vier Personen stehen als am häufigsten Mitwirkende heraus und es handelt sich generell um eine gesunde Gemeinschaft.
 Dazu kommt, dass zu den Nutzern unter anderem die Nationalbibliothek von Finnland zählt, was bedeutet, dass eine signifikante Organisation an der Weiterführung des Projektes interessiert ist.
 
+Für die Suchfunktion von VuFind baut auf Solr auf.
+Solr ist eine Open Source Suchplatform, die sich zum Industriestandard entwickelt hat.
+Was Solr alles kann hat mich sehr beeindruckt.
+Nun, bedenke, Solr ist nicht für die gemeinen Nutzenden gedacht, sondern als im Hintergrund laufendes Programm, das der Nutzerfreundlichen Fassade viele wunderbare Funktionen gibt.
+Entsprechend sind zum Beispiel die Faccetten schwieriger zu finden als bei VuFind.
+Ebenso steht die Konsistenzprüfung nicht im Vordergrund. 
+Solr ist keine Datenbank, sondern eine Suchplatform.
+Die Geschwindigkeit der Suchen steht im Fokus.
+Dazu muss die integration von Schnittstellen, auch zu mehreren Datenbanken gleichzeitig, reibungslos funktionieren.
+Zu meiner persönlichen Überraschung tut sie das auch.
+Und das mit 
+
+relevanzranking
 
 ----NOTIZEN----  
 
-Nati BIb Finnland
-aktive Community
-4 grosse Contrib
-gesunde Community 68 eingetragene Nutzer
-
-VuFind baut auf Solr
-Solr
-(Appache-Solr)
 Elastic search und Solar sind die 2 Big Dogs
-Solr Industrie-Standard
 Solr schnell, 
 indiziert
 relevanzranking
-NICHT Datenbank
-NICHT so konsistenzprüfung, sondern SCHNELL
 
 --Dokument--
 Horizontale vs. Vertikale Suchmaschine
@@ -56,8 +58,6 @@ Suchoberfläche
 Sehr kurze namen der Felder, Mouse over, gedacht für maschinen gelesen (BACKEND)
 
 suche kommt zurück in JASON format
-
-Zeugs anschauen: rückmeldung
 
 #### Gruppe 1
 
