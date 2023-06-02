@@ -12,17 +12,17 @@ Er war sehr alltagsnah, mit wunderbaren echten Beispielen, und entsprechend tech
 Es ist echt faszinierend und beeindruckend, aber mir fehlt die Konzentrationsfähigkeit etwas derart theoretisches zu machen.
 Ich bleibe lieber hinter der Theke.
 
-Wie du bereits dem Titel entnehmen kannst gieng es um Suchmaschienen (Stichwort Solr) und Discovery-Systeme (vor allem VuFind).
+Wie du bereits dem Titel entnehmen kannst ging es um Suchmaschinen (Stichwort Solr) und Discovery-Systeme (vor allem VuFind).
 VuFind ist ein modernes mächtiges Programm.
-Es hat viele Funktionen und ein an sich gutes Nutzerobeflächendesign, das nicht allzu modern aussieht, aber sehr gut angepasst werden kann.
+Es hat viele Funktionen und ein an sich gutes Nutzeroberflächendesign, das nicht allzu modern aussieht, aber sehr gut angepasst werden kann.
+Es stehen viele Tutorials - auch mit Video - zur Verfügung, die von den Entwicklern produziert werden.
+Dazu stehen die Benutzerhandbücher auf GitHub mit ausführlicher Dokumentation bereit.
+Die Entwickler sind eine Open Source Community, die sehr aktiv an VuFind arbeiten.
+Vier Personen stehen als am häufigsten Mitwirkende heraus und es handelt sich generell um eine gesunde Gemeinschaft.
+Dazu kommt, dass zu den Nutzern unter anderem die Nationalbibliothek von Finnland zählt, was bedeutet, dass eine signifikante Organisation an der Weiterführung des Projektes interessiert ist.
 
 
 ----NOTIZEN----  
-Suchmaschinen und Discovery Systeme
-
-VuFind: Moderner Onlinekatalog
-viele Tutorials (Video) vom Entwickler
-Manuals (gitHub)
 
 Nati BIb Finnland
 aktive Community
