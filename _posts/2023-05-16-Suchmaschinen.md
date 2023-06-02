@@ -43,10 +43,14 @@ Damit wird eine sehr praktische Funktionalität einfach eingebunden und in selbs
 Auch eine Autovervollständigung wird angeboten, die sogar Suchfeldspezifisch ist.
 Solr ist schnell genug um das sinnvoll umzusetzen.
 
-----NOTIZEN----
+Ein Trick den wir gelernt haben, ist die ``config`` Datei zu kopieren und unsere Einstellungen (via Textbearbeitung) an der Kopie vorzunehmen.
+So löscht uns kein Update Einstellungen.
 
-autovervollständigung: sucht live, ist hier suchfeldabhängig
-kann def wie lange warten bis suche (1 s oder so)
+Liebe Grüsse
+
+Florian
+
+----NOTIZEN----
 
 extra config file um std datei zu erhalten
 text datei, können wir einfach ändern (breaks translation)
@@ -57,15 +61,6 @@ VuFind macht Mapping. 01 wird ID
 recht komplex
 Muss ev Mapping MARC zu VuF anpassen
 müssen in MARCXML umwandeln. ZB DC oder so müssen wir ins MARC21XML umwandeln. SIEHE BILD MIT FLOWCHART
-
-BSP
-K10Plus 
-10 Bundesländer
-eigene Software mit Solr
-nehmen öffentlich zugängliche Datensätze (pubMed und so) in ihren Index auf
-Skripte, Translation-Map, 231 Millionen Datensätze
-Bibis im Verbund kriegens gratis
-eigenes ist eh drin
 
 für Ausleihe brauchts dann nochmal Datenbank-Schnittstelle
 Wer, Berechtigungen, 2 Schnittstellen (Unpaywall und DNB Verfügbarkeit), lädt sehr schnell!!
