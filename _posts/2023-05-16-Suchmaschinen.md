@@ -50,7 +50,7 @@ Ich habe es garnicht gemerkt, aber hier macht das Bild aus dem Unterricht endlic
 
 ![ ](https://pad.gwdg.de/uploads/c8d2a2dc-b427-4330-a665-b355a2a85f50.png)
 
-
+Solr braucht sein Input in MARC21-XML und kann wunderbar in VuFind ausgegeben werden!
 
 Liebe Grüsse
 
