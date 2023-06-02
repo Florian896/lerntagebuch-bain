@@ -31,7 +31,9 @@ Solr ist keine Datenbank, sondern eine Suchplatform.
 Die Geschwindigkeit der Suchen steht im Fokus.
 Dazu muss die integration von Schnittstellen, auch zu mehreren Datenbanken gleichzeitig, reibungslos funktionieren.
 Zu meiner persönlichen Überraschung tut sie das auch.
-Und das mit 
+Und das mit all den Funktionen die man sich nur wünschen kann.
+Es bietet sogar ein Relevanzranking, indem es Treffer in verschiedenen Feldern mit verschiedenen Zahlen multipliziert.
+Welches Feld welche Zahl erhält wurde durch Erfahrungswerte bestimmt.
 
 relevanzranking
 
