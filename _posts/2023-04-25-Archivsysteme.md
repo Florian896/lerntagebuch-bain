@@ -40,7 +40,8 @@ Es ist Open Source und wird von 400 zahlenden Mitgliedern getragen, woraus fast 
 Alles ist offen und Kostenfrei, ausser der Hilfe, dem Support, womit Geld verdient wird.
 Dies ist ein vermutlich einmaliges System, aber es scheint zu funktionieren.
 
-Leider gehen mir die Buchstaben schon wieder aus. Aber keine Sorge, ich werde gliech im Sondereintrag zum Vergleich von ArchivesSpace mit AtoM von den Tatsächlichen Programmen berichten.
+Leider gehen mir die Buchstaben schon wieder aus. 
+Aber keine Sorge, ich werde gleich im Sondereintrag zum Vergleich von ArchivesSpace mit AtoM von den Tatsächlichen Programmen berichten.
 
 Liebe Grüsse
 
