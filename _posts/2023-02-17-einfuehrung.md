@@ -3,7 +3,8 @@ title: "Einführungsartikel"
 date: 2023-02-17
 ---
 
-Liebes Tagebuch  
+Liebes Tagebuch
+
 Wir versuchen es ein weiteres Mal. Als ich dieses Modul bereits einmal Besuchte, konnte ich es wegen meiner Gesundheit leider nicht erfolgreich abschliessen.
 Lass uns die Daumen drücken, dass es diesmal gelingt.
 Die ersten zwei Termine haben schon stattgefunden.
