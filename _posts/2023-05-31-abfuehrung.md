@@ -20,28 +20,32 @@ Ich werde es nutzen sobald sich die Gelegenheit bietet.
 Mit seinen Möglichkeiten Daten zu bereinigen und mit Wikidata und anderen Datenbanken anzureichern hat es mich überzeugt.
 
 Ein unangenehmerer Lernerfolg war es, zu lernen, dass die Nutzerfreundlichkeit, die ich mir wünsche, sehr unrealistisch ist.
-Der "Industrie-Standard" der Bibliotheksprogramme ist, sich mit den Dingern Rumzuschlagen und lernen damit umzugehen.
-Erschreckenderweise ist das WinMedio an meinem Arbeitsplatz im Vergleich äusserst Nutzerfreundlich.
+Der "Industrie-Standard" der Bibliotheksprogramme ist, sich mit den Dingern rumzuschlagen und lernen damit umzugehen.
+Überraschenderweise ist das WinMedio an meinem Arbeitsplatz im Vergleich äusserst Nutzerfreundlich.
 
 Das viel besungene ALMA scheint mir in dieser Hinsicht auch nicht besser. 
 Scheinbar sind die eingebauten Funktionen und Analysen die schlagenden Verkaufsargumente.
 Leider sind wir in der Vorlesung nicht darauf eingegangen.
-Ich vermute auch, dass der Kundendienst und die technische Unterschtützung die mit einer Lizenz kommen zu ALMAs Erfolg beigetragen haben.
+Ich vermute auch, dass der Kundendienst und die technische Unterstützung die mit einer Lizenz kommen zu ALMAs Erfolg beigetragen haben.
 Insbesondere wenn kein entsprechender Spezialist im Team vorhanden ist.
 
 Offene Quelle Programme wie Koha existieren auch und scheinen auch sehr gut zu sein.
-Genauer ins Deteil würde ich gehen, wenn es um einen konkreten Fall geht. 
+Genauer ins Detail würde ich gehen, wenn es um einen konkreten Fall geht. 
 
-Wie mögliche Optionen evaluiert werden können, wenn es zur Einführung eines neuen Programmes kommt, habe ich auch gelernt.
+Wie mögliche Optionen evaluiert werden können, wenn es zur Einführung eines neuen Programms kommt, habe ich auch gelernt.
 Das scheint mir eine sehr wichtige Fähigkeit, die mir bis anhin fehlte.
 
-OpenRefine
-Bibsyst
-Archivsyst
+Zu Archivsystemen habe ich vorallem über das Evaluieren von Programmen gelernt. 
+Für das Fachspezifischere fehlt mir die Erfahrung in einem Archiv.
+Ich bin jedoch zuversichtlich, dass ich mich schnell einarbeiten könnte und mein Verständnis dank Praxis schnell wachsen würde.
+
+
 Repository
 Metadaten / Schnittstellen
 schumaschinen / Discovery
 Linked Data
+
+
 
 Liebe Grüsse
 
