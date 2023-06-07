@@ -44,16 +44,17 @@ Zu Repositories empfehle ich Dir, Dir zu merken, dass wir gute [Links](https://f
 Für mich hat die Lektion etwas sehr deutlich gemacht:
 Migrationen sind nie verlustfrei, einfach oder schnell.
 
+Apropos Links: Du musst nicht alles können. Du kannst sehr viel gut auf [Library Carpentry](https://librarycarpentry.org/) oder [Programming Historian](https://programminghistorian.org/en/lessons/) lernen und nachschauen. 
+Schlimmstenfalls gibt es noch https://stackoverflow.com/
 
+In der zweiten Vorlesung zu Metadaten und Schnittstellen haben wir gelern wie wichtig eine gute Validierung und das Programm MarcEdit sind.
+Wobei das letztere den Druck auf erstere etwas mindert.
 
 Was ich auch gelernt habe, ist, dass "einfache" technische lösungen wie Code Spaces von GitHub auch aufwendig sind.
 
-Metadaten / Schnittstellen
 schumaschinen / Discovery
 Linked Data
 
-
-
-Liebe Grüsse
+Liebe Grüsse und auf Wiedersehen
 
 Florian
