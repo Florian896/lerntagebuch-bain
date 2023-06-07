@@ -17,12 +17,12 @@ Für mich sieht es aus wie ein facebook/Tinder/LinkedIn für Wissenschaftler:inn
 Was alles beliebte, aber problematische Serviceanbieter sind.
 Vielleicht meinte er das.
 
-Es gieng verwirrend weiter.
+Es ging verwirrend weiter.
 Wir haben via Eingabebefehl verschiedene Erntemethoden von VuFindHarvest ausprobiert.
-Nähmlich via Koha, ArchivesSpace und DSpace.
+Nämlich via Koha, ArchivesSpace und DSpace.
 Bemerkenswert ist, das die Eingabebefehle Internetadressen enthielten, deren Inhalt dann geerntet wurde.
 Kein extra Programm musste zwischengeschaltet werden.
-Das ominöse OAI-PMH war Teil jedes Befehls, doch ob es ein Programm, ein Standard oder ein Algorythmus ist, erschloss sich mir erst als ich Doktor Wikipedia um [Rat](https://en.wikipedia.org/wiki/Open_Archives_Initiative_Protocol_for_Metadata_Harvesting) bat.
+Das ominöse OAI-PMH war Teil jedes Befehls, doch ob es ein Programm, ein Standard oder ein Algorithmus ist, erschloss sich mir erst als ich Doktor Wikipedia um [Rat](https://en.wikipedia.org/wiki/Open_Archives_Initiative_Protocol_for_Metadata_Harvesting) bat.
 Die Antwort liegt im Namen, der nämlich ein Akronym ist, das verrät, dass es sich um ein Protokoll, also einen Algorithmus - sprich eine Methode - handelt.
 Bitte erinner mich dran bei der nächsten Verwirrung gleich Wikipedia zu besuchen.
 
@@ -34,8 +34,8 @@ Ob es fehlerfrei und vollständig ist, kann ich leider nicht mit abschliessender
 Für meine Augen sieht es aber gut aus.
 Es dauert jedoch sehr lange, da ChatGPT jede Zeile einzeln generiert.
 
-Die Library of Congress hat einen offiziellen Standard definiert, der eigentlich im Idealfall verlustfrei sein sollte.
-Ein Kommulitone meldete sich aber sofort und erläuterte, dass die Standards je nach Organisation verschieden interpretiert würden.
+Die Bibliothek des Verkehrs (Library of Congress) hat einen offiziellen Standard definiert, der eigentlich im Idealfall verlustfrei sein sollte.
+Ein Kommilitone meldete sich aber sofort und erläuterte, dass die Standards je nach Organisation verschieden interpretiert würden.
 Eine Konvertierung eines ganzen Datensatzes von einer anderen Organisation würde wohl aus Chaos noch mehr Chaos machen.
 Tatsächliche Verwendung in der Praxis finden Corsswalks eher via einer (verlustbehafteten) Vereinfachung des Datensatzes dank DC-Komprimierung.
 Das Resultat muss formell, aber vor allem auch inhaltlich validiert werden.
@@ -43,12 +43,12 @@ Womit man wieder bei einem Ähnlichen Problem ist wie am Anfang.
 Effektiv kann es hilfreich sein, wenn beispielsweise der Verlag Daten in einem für uns ungünstigen Format liefert.
 
 Was wir nutzen ist ein sehr sympathisches Programm namens MarcEdit.
-Es ist nicht Open Source, aber durchaus Free to Use.
+Es ist nicht Offene Quelle, aber durchaus gratis zu benutzen.
 Es wird von einer einzelnen Person entwickelt und unterhalten.
 Das schlägt sich im Design durchaus nieder. 
 Die Nutzeroberfläche wirkt improvisiert und etwas uneinheitlich; da sie über die Jahre so "gewachsen" ist.
 Es ist das Gegenteil von Apple.
-Überhaupt nicht Hochglanz, dafür höchst anpassbar, schlank und äusserst komplatiebel mit verschiedenen Systemen.
+Überhaupt nicht Hochglanz, dafür höchst anpassbar, schlank und äusserst kompatibel mit verschiedenen Systemen.
 Es hat einen angenehmen Charakter.
 Dazu kommt, dass es schon lange existiert und konsistent stabil ist.
 Deshalb hat es sich als Standard durchgesetzt.
