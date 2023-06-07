@@ -50,11 +50,12 @@ Schlimmstenfalls gibt es noch https://stackoverflow.com/
 In der zweiten Vorlesung zu Metadaten und Schnittstellen haben wir gelern wie wichtig eine gute Validierung und das Programm MarcEdit sind.
 Wobei das letztere den Druck auf erstere etwas mindert.
 
+Die Lektion zu Suchmaschinen und Discovery-Systemen ist leider nicht richtig bei mir angekommen.
+Mir ist jetzt klar, dass viele Systeme wie Legos aus Modulen zusammengesetzt werden.
+Auch habe ich gesehen, dass eine Suche über mehrere Datenbanken mit vielen Daten sehr schnell gemacht werden kann - zumindest mit Solr.
+
 Was ich auch gelernt habe, ist, dass "einfache" technische lösungen wie Code Spaces von GitHub auch aufwendig sind.
 
-schumaschinen / Discovery
-Linked Data
-
-Liebe Grüsse und auf Wiedersehen
+Liebe Grüsse, auf Wiedersehen und alles Gute!
 
 Florian
