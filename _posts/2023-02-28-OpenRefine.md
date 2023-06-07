@@ -45,7 +45,7 @@ Formatierungen werden ignoriert und sind darum auch kein Problem.
 Die Facettenansicht ist schlichtweg genial.
 Pass einfach auf, dass Du nicht übersiehst, dass gleichzeitig aktive Facetten mit einem AND verknüpft sind.
 
-Für tatsächliches Arbeiten mit dem Programm empfehle ich Dir eindringlichst die Lektionen auf [Libsrary Carpentry](https://librarycarpentry.org/lc-open-refine/) durchzuarbeiten.
+Für tatsächliches Arbeiten mit dem Programm empfehle ich Dir eindringlichst die Lektionen auf [Library Carpentry](https://librarycarpentry.org/lc-open-refine/) durchzuarbeiten.
 Sie sind gut verständlich und enthalten viele hilfreiche Übungsaufgaben.
 Falls Du viele Texte vom Internet sammeln und analysieren willst, wirst du beim [Programming Historian](https://programminghistorian.org/en/lessons/) fündig, aber Achtung, es sind viele lange Texte.
 Ein Handbuch findest Du [hier](https://it-in-bibliotheken.de).
