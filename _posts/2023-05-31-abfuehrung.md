@@ -38,9 +38,16 @@ Das scheint mir eine sehr wichtige Fähigkeit, die mir bis anhin fehlte.
 Zu Archivsystemen habe ich vorallem über das Evaluieren von Programmen gelernt. 
 Für das Fachspezifischere fehlt mir die Erfahrung in einem Archiv.
 Ich bin jedoch zuversichtlich, dass ich mich schnell einarbeiten könnte und mein Verständnis dank Praxis schnell wachsen würde.
+Inzwischen weiss ich, dass AtoM und ArchiveSpace zwei gute Optionen sind.
+
+Zu Repositories empfehle ich Dir, Dir zu merken, dass wir gute [Links](https://florian896.github.io/lerntagebuch-bain/2023/05/05/Repository.html) erhalten haben.
+Für mich hat die Lektion etwas sehr deutlich gemacht:
+Migrationen sind nie verlustfrei, einfach oder schnell.
 
 
-Repository
+
+Was ich auch gelernt habe, ist, dass "einfache" technische lösungen wie Code Spaces von GitHub auch aufwendig sind.
+
 Metadaten / Schnittstellen
 schumaschinen / Discovery
 Linked Data
