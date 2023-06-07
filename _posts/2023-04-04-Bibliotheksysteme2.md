@@ -34,7 +34,7 @@ Ich empfehle mindestens sechs Monate für alle Programme dieser Art.
 
 Datenexport und Datenimport funktioniert, indem man eine sogenannte [Schnittstelle](https://de.wikipedia.org/wiki/Schnittstelle) ansteuert.
 Eine Schnittstelle ist ein Teil eines Programms, der nur der Kommunikation dient.
-Das kann kommunikation mit Menschen oder mit anderen Programmen sein.
+Das kann Kommunikation mit Menschen oder mit anderen Programmen sein.
 Die Schnittstelle die wir benuten heisst OAI-PMH.
 Das steht für ``Open Archives Initiative Protocol for Metadata Harvesting``.
 Koha unterstützt als offenes Programm diverse Schnittstellen.
@@ -46,7 +46,7 @@ Wie in jedem freien Markt kaufen die verschiedenen Anbieter einander auf.
 Weil Grösse ein beachtlicher Marktvorteil ist, funktioniert die Taktik und führt, mit Zeit und Kapitalismus, richtung Monopol.
 Die aktuelle Situation, wer wen gekauft hat, lässt sich [hier ablesen](https://librarytechnology.org/mergers/).
 Zum Glück gibt es noch Open Source Alternativen, wie Koha, was das Monopol verhindert.
-Ein Open Source Projekt kann man nähmlich nicht kaufen.
+Ein Open Source Projekt kann man nämlich nicht kaufen.
 
 Liebe Grüsse
 
