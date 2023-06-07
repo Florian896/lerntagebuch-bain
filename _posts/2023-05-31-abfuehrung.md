@@ -35,7 +35,7 @@ Genauer ins Detail würde ich gehen, wenn es um einen konkreten Fall geht.
 Wie mögliche Optionen evaluiert werden können, wenn es zur Einführung eines neuen Programms kommt, habe ich auch gelernt.
 Das scheint mir eine sehr wichtige Fähigkeit, die mir bis anhin fehlte.
 
-Zu Archivsystemen habe ich vorallem über das Evaluieren von Programmen gelernt. 
+Zu Archivsystemen habe ich vor allem über das Evaluieren von Programmen gelernt. 
 Für das Fachspezifischere fehlt mir die Erfahrung in einem Archiv.
 Ich bin jedoch zuversichtlich, dass ich mich schnell einarbeiten könnte und mein Verständnis dank Praxis schnell wachsen würde.
 Inzwischen weiss ich, dass AtoM und ArchiveSpace zwei gute Optionen sind.
@@ -54,7 +54,7 @@ Die Lektion zu Suchmaschinen und Discovery-Systemen ist leider nicht richtig bei
 Mir ist jetzt klar, dass viele Systeme wie Legos aus Modulen zusammengesetzt werden.
 Auch habe ich gesehen, dass eine Suche über mehrere Datenbanken mit vielen Daten sehr schnell gemacht werden kann - zumindest mit Solr.
 
-Was ich auch gelernt habe, ist, dass "einfache" technische lösungen wie Code Spaces von GitHub auch aufwendig sind.
+Was ich auch gelernt habe, ist, dass "einfache" technische Lösungen wie Code Spaces von GitHub auch aufwendig sind.
 
 Liebe Grüsse, auf Wiedersehen und alles Gute!
 
